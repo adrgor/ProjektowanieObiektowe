@@ -1,0 +1,100 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "7e4e1643d321f2792a332d3dbe47e02db3712c26f9519b19a6f512fd04e5ca87"
+build_start_time: [1651165361, 334145069]
+build_end_time: [1651165362, 496525049]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/AES-GCM.swift": !private [1651165065, 341999053]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/BoringSSL/AES-GCM_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/BoringSSL/ChaChaPoly_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/ChaChaPoly.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Cipher.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Nonces.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ASN1.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1BitString.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Identifier.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Integer.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1OctetString.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ArraySliceBigint.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ObjectIdentifier.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ECDSASignature.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PEMDocument.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PKCS8PrivateKey.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SEC1PrivateKey.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SubjectPublicKeyInfo.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/CryptoKitErrors.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Digests/BoringSSL/Digest_boring.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digest.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digests.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA2.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure_HashFunctions.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/BoringSSL/ECDH_boring.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/DH.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/ECDH.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Key Derivation/HKDF.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/AESWrap.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/BoringSSL/AESWrap_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurvePoint_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurve_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/HMAC/HMAC.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MACFunctions.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MessageAuthenticationCode.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/PRF/AES.swift": !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSASignature_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSA_boring.swift"
+  : !private [1651165065, 345999240]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/EdDSA_boring.swift"
+  : !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/ECDSA.swift": !private [1651165065, 345999240]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/EdDSA.swift": !private [1651165065, 349999427]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/Signature.swift": !private [1651165065, 349999427]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/ArbitraryPrecisionInteger_boring.swift"
+  : !private [1651165065, 349999427]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/CryptoKitErrors_boring.swift"
+  : !private [1651165065, 349999427]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/FiniteFieldArithmeticContext_boring.swift"
+  : !private [1651165065, 349999427]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift"
+  : !private [1651165065, 349999427]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/SafeCompare_boring.swift"
+  : !private [1651165065, 349999427]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Zeroization_boring.swift"
+  : !private [1651165065, 349999427]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/PrettyBytes.swift": !private [1651165065, 349999427]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/SafeCompare.swift": !private [1651165065, 349999427]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/SecureBytes.swift": !private [1651165065, 349999427]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-crypto/Sources/Crypto/Util/Zeroization.swift": !private [1651165065, 349999427]

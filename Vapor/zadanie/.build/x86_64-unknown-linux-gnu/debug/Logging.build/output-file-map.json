@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/master.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-log/Sources/Logging/Locks.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Locks.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Locks.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Locks~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Locks.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/LogHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/LogHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/LogHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/LogHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-log/Sources/Logging/Logging.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Logging.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Logging.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Logging~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Logging.build/Logging.swiftdeps"
+  }
+}

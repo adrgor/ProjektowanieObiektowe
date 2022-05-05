@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <div class="navbar px-5 py-3 navbar-light bg-light">
+    <a href="/universities"><div>Universities</div></a>
+    <a href="/students"><div>Students</div></a>
+    <a href="/countries"><div>Countries</div></a>
+  </div>
+</body>
+</html>

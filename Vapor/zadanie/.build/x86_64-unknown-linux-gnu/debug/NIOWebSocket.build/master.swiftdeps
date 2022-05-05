@@ -1,0 +1,20 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "d02624e5a3e986f7501dc1329078e3e9ca099564b5db64acd44dd079e8068068"
+build_start_time: [1651168663, 367547988]
+build_end_time: [1651168667, 926151990]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1651165064, 881990909]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketClientUpgrader.swift"
+  : [1651165064, 881990909]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketFrameAggregator.swift"
+  : [1651165064, 881990909]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketServerUpgrader.swift"
+  : [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1651165064, 881990909]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift"
+  : [1651165064, 881990909]

@@ -1,0 +1,17 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "0f606a3119a844d9bafcec1b782f5fe1aa74a7be593ff6d2901aa7694df63fbb"
+build_start_time: [1651168655, 297244071]
+build_end_time: [1651168660, 920526981]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1651165064, 869990825]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1651165064, 869990825]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1651165064, 869990825]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1651165064, 869990825]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1651165064, 873991012]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift"
+  : [1651165064, 873991012]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift": [1651165064, 873991012]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1651165064, 873991012]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift"
+  : [1651165064, 873991012]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift": [1651165064, 873991012]

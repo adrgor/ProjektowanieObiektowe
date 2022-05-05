@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/master.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/Application+Leaf.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Application+Leaf.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Application+Leaf.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Application+Leaf~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Application+Leaf.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/Exports.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Exports.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Exports.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Exports.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/LeafEncoder.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafEncoder.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafEncoder.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafEncoder.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/LeafRenderer+ViewRenderer.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafRenderer+ViewRenderer.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafRenderer+ViewRenderer.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafRenderer+ViewRenderer~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/LeafRenderer+ViewRenderer.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/Request+Leaf.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Request+Leaf.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Request+Leaf.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Request+Leaf~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Leaf.build/Request+Leaf.swiftdeps"
+  }
+}

@@ -1,0 +1,11 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "60f10d212b4e112457ee9765c0ff986cd628c6320f4079841b3172be7f56115c"
+build_start_time: [1651168657, 555718898]
+build_end_time: [1651168659, 104764938]
+inputs:
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift"
+  : [1651165064, 869990825]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift"
+  : [1651165064, 869990825]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/JSONSerialization+ByteBuffer.swift"
+  : [1651165064, 869990825]

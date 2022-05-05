@@ -1,0 +1,24 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "66c4d5c6bb9d72920408b522334fba5af05af2da7267286cf11e62568fca9c34"
+build_start_time: [1651168719, 782013893]
+build_end_time: [1651168722, 899358034]
+inputs:
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Concurrency/FluentProvider+Concurrency.swift"
+  : [1651165065, 842008113]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Concurrency/Pagination+Concurrency.swift"
+  : [1651165065, 842008113]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Concurrency/Sessions+Concurrency.swift"
+  : [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Fluent+Pagination.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift": [1651165065, 842008113]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift"
+  : [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift": [1651165065, 842008113]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent/Sources/Fluent/PageLimit.swift": [1651165065, 842008113]

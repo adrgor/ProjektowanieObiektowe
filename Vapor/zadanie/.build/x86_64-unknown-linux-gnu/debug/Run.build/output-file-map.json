@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Run.build/master.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/Run/main.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Run.build/main.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Run.build/main.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/Run.build/main.swiftdeps"
+  }
+}

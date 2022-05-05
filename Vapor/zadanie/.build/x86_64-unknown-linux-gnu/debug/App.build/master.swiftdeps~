@@ -1,0 +1,11 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "e88f3280903b294da3f5de9e7ccbf7377b063f87e3e3a639c3d0f071767f57d9"
+build_start_time: [1651168723, 39215087]
+build_end_time: [1651168724, 367843151]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Controllers/TodoController.swift": !private [1651164589, 521102905]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Controllers/UserController.swift": !private [1651165258, 313737869]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Migrations/CreateTodo.swift": !private [1651164589, 521102905]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Models/Todo.swift": !private [1651164589, 521102905]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/configure.swift": !private [1651166022, 756077051]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/routes.swift": !private [1651164604, 481021881]

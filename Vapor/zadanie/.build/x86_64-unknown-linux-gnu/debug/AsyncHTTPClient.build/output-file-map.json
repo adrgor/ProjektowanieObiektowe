@@ -1,0 +1,335 @@
+{
+  "": {
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/master.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+execute.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+execute.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+execute.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+execute~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+execute.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+shutdown.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+shutdown.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+shutdown.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+shutdown~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClient+shutdown.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest+Prepared.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest+Prepared.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest+Prepared.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest+Prepared~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest+Prepared.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientRequest.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientResponse.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientResponse.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientResponse.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientResponse~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/HTTPClientResponse.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction+StateMachine.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction+StateMachine.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction+StateMachine.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction+StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction+StateMachine.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/AsyncAwait/Transaction.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Base64.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Base64.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Base64.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Base64~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Base64.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/BestEffortHashableTLSConfiguration.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/BestEffortHashableTLSConfiguration.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/SOCKSEventsHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/SOCKSEventsHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/TLSEventsHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/TLSEventsHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/TLSEventsHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/TLSEventsHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/ChannelHandler/TLSEventsHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ClientChannelHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1Connection.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1Connection.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1Connection.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1Connection~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1Connection.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2ClientRequestHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2Connection.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2Connection.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2Connection.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2Connection~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2Connection.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2IdleHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2IdleHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2IdleHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2IdleHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTP2/HTTP2IdleHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionEvent.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionEvent.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionEvent.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionEvent~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionEvent.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Factory.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Factory.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Factory.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Factory~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Factory.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Manager.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Manager.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Manager.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Manager~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool+Manager.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPConnectionPool.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPExecutableRequest.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPExecutableRequest.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPExecutableRequest.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPExecutableRequest~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPExecutableRequest.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine+Demand.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine+Demand.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine+Demand.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine+Demand~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine+Demand.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/HTTPRequestStateMachine.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestBodyLength.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestBodyLength.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestBodyLength.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestBodyLength~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestBodyLength.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestFramingMetadata.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestFramingMetadata.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestFramingMetadata.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestFramingMetadata~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestFramingMetadata.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestOptions.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestOptions.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestOptions.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestOptions~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/RequestOptions.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+Backoff~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionTarget.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionTarget.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionTarget.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionTarget~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/ConnectionTarget.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/DeconstructedURL.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/DeconstructedURL.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/DeconstructedURL.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/DeconstructedURL~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/DeconstructedURL.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FileDownloadDelegate.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FileDownloadDelegate.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FileDownloadDelegate~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FileDownloadDelegate.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FoundationExtensions.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FoundationExtensions.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FoundationExtensions.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FoundationExtensions~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/FoundationExtensions.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+HTTPCookie.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+HTTPCookie.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+HTTPCookie~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+HTTPCookie.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+Proxy.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+Proxy.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+Proxy.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+Proxy~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient+Proxy.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPClient.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/HTTPHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/LRUCache.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/LRUCache.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/LRUCache.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/LRUCache~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/LRUCache.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/NWErrorHandler.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/NWErrorHandler.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/NWErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/NWErrorHandler.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/TLSConfiguration.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/TLSConfiguration.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/TLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/NIOTransportServices/TLSConfiguration.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RedirectState.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RedirectState.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RedirectState.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RedirectState~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RedirectState.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag+StateMachine.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag+StateMachine.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag+StateMachine.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag+StateMachine~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag+StateMachine.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestBag.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestValidation.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestValidation.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestValidation~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/RequestValidation.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/SSLContextCache.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/SSLContextCache.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/SSLContextCache.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/SSLContextCache~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/SSLContextCache.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Scheme.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Scheme.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Scheme.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Scheme~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Scheme.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/StringConvertibleInstances.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/StringConvertibleInstances.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/StringConvertibleInstances~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/StringConvertibleInstances.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Utils.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Utils.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/AsyncHTTPClient.build/Utils.swiftdeps"
+  }
+}

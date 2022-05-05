@@ -1,0 +1,9 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "60f10d212b4e112457ee9765c0ff986cd628c6320f4079841b3172be7f56115c"
+build_start_time: [1651168654, 23061990]
+build_end_time: [1651168657, 215996026]
+inputs:
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift"
+  : [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1651165064, 881990909]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1651165064, 881990909]

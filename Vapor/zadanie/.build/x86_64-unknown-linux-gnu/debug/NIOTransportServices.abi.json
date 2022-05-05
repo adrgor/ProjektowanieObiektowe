@@ -1,0 +1,512 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "NIOCore",
+      "printedName": "NIOCore",
+      "declKind": "Import",
+      "moduleName": "NIOTransportServices",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NIOFilterEmptyWritesHandler",
+      "printedName": "NIOFilterEmptyWritesHandler",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "state",
+          "printedName": "state",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelState",
+              "printedName": "NIOTransportServices.NIOFilterEmptyWritesHandler.ChannelState",
+              "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC12ChannelState33_ABC324EA13CCFAD2ECFA54E28FD3994FLLO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC5state33_ABC324EA13CCFAD2ECFA54E28FD3994FLLAC12ChannelStateAELLOvp",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC5state33_ABC324EA13CCFAD2ECFA54E28FD3994FLLAC12ChannelStateAELLOvp",
+          "moduleName": "NIOTransportServices",
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "prefixEmptyWritePromise",
+          "printedName": "prefixEmptyWritePromise",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "NIOCore.EventLoopPromise<()>?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopPromise",
+                  "printedName": "NIOCore.EventLoopPromise<()>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "usr": "s:7NIOCore16EventLoopPromiseV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC06prefixD12WritePromise33_ABC324EA13CCFAD2ECFA54E28FD3994FLL7NIOCore09EventLoopI0VyytGSgvp",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC06prefixD12WritePromise33_ABC324EA13CCFAD2ECFA54E28FD3994FLL7NIOCore09EventLoopI0VyytGSgvp",
+          "moduleName": "NIOTransportServices",
+          "isInternal": true,
+          "declAttributes": [
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "lastWritePromise",
+          "printedName": "lastWritePromise",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "NIOCore.EventLoopPromise<()>?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopPromise",
+                  "printedName": "NIOCore.EventLoopPromise<()>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "usr": "s:7NIOCore16EventLoopPromiseV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC16lastWritePromise33_ABC324EA13CCFAD2ECFA54E28FD3994FLL7NIOCore09EventLoopI0VyytGSgvp",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC16lastWritePromise33_ABC324EA13CCFAD2ECFA54E28FD3994FLL7NIOCore09EventLoopI0VyytGSgvp",
+          "moduleName": "NIOTransportServices",
+          "isInternal": true,
+          "declAttributes": [
+            "Final",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NIOFilterEmptyWritesHandler",
+              "printedName": "NIOTransportServices.NIOFilterEmptyWritesHandler",
+              "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerCACycfc",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerCACycfc",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "write",
+          "printedName": "write(context:data:promise:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelHandlerContext",
+              "printedName": "NIOCore.ChannelHandlerContext",
+              "usr": "s:7NIOCore21ChannelHandlerContextC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NIOAny",
+              "printedName": "NIOCore.NIOAny",
+              "usr": "s:7NIOCore6NIOAnyV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "NIOCore.EventLoopPromise<()>?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopPromise",
+                  "printedName": "NIOCore.EventLoopPromise<()>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "usr": "s:7NIOCore16EventLoopPromiseV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC5write7context4data7promisey7NIOCore07ChannelF7ContextC_AH6NIOAnyVAH16EventLoopPromiseVyytGSgtF",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC5write7context4data7promisey7NIOCore07ChannelF7ContextC_AH6NIOAnyVAH16EventLoopPromiseVyytGSgtF",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "flush",
+          "printedName": "flush(context:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelHandlerContext",
+              "printedName": "NIOCore.ChannelHandlerContext",
+              "usr": "s:7NIOCore21ChannelHandlerContextC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC5flush7contexty7NIOCore07ChannelF7ContextC_tF",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC5flush7contexty7NIOCore07ChannelF7ContextC_tF",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "channelActive",
+          "printedName": "channelActive(context:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelHandlerContext",
+              "printedName": "NIOCore.ChannelHandlerContext",
+              "usr": "s:7NIOCore21ChannelHandlerContextC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC13channelActive7contexty7NIOCore07ChannelF7ContextC_tF",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC13channelActive7contexty7NIOCore07ChannelF7ContextC_tF",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "channelInactive",
+          "printedName": "channelInactive(context:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelHandlerContext",
+              "printedName": "NIOCore.ChannelHandlerContext",
+              "usr": "s:7NIOCore21ChannelHandlerContextC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC15channelInactive7contexty7NIOCore07ChannelF7ContextC_tF",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC15channelInactive7contexty7NIOCore07ChannelF7ContextC_tF",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "close",
+          "printedName": "close(context:mode:promise:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelHandlerContext",
+              "printedName": "NIOCore.ChannelHandlerContext",
+              "usr": "s:7NIOCore21ChannelHandlerContextC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CloseMode",
+              "printedName": "NIOCore.CloseMode",
+              "usr": "s:7NIOCore9CloseModeO"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "NIOCore.EventLoopPromise<()>?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EventLoopPromise",
+                  "printedName": "NIOCore.EventLoopPromise<()>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "usr": "s:7NIOCore16EventLoopPromiseV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC5close7context4mode7promisey7NIOCore07ChannelF7ContextC_AH9CloseModeOAH16EventLoopPromiseVyytGSgtF",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC5close7context4mode7promisey7NIOCore07ChannelF7ContextC_AH9CloseModeOAH16EventLoopPromiseVyytGSgtF",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "errorCaught",
+          "printedName": "errorCaught(context:error:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelHandlerContext",
+              "printedName": "NIOCore.ChannelHandlerContext",
+              "usr": "s:7NIOCore21ChannelHandlerContextC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Error",
+              "printedName": "Swift.Error",
+              "usr": "s:s5ErrorP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC11errorCaught7context0G0y7NIOCore07ChannelF7ContextC_s5Error_ptF",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC11errorCaught7context0G0y7NIOCore07ChannelF7ContextC_s5Error_ptF",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "handlerAdded",
+          "printedName": "handlerAdded(context:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ChannelHandlerContext",
+              "printedName": "NIOCore.ChannelHandlerContext",
+              "usr": "s:7NIOCore21ChannelHandlerContextC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC12handlerAdded7contexty7NIOCore07ChannelF7ContextC_tF",
+          "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC12handlerAdded7contexty7NIOCore07ChannelF7ContextC_tF",
+          "moduleName": "NIOTransportServices",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:20NIOTransportServices27NIOFilterEmptyWritesHandlerC",
+      "mangledName": "$s20NIOTransportServices27NIOFilterEmptyWritesHandlerC",
+      "moduleName": "NIOTransportServices",
+      "declAttributes": [
+        "Final",
+        "AccessControl",
+        "RawDocComment"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "ChannelInboundHandler",
+          "printedName": "ChannelInboundHandler",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "InboundIn",
+              "printedName": "InboundIn",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ByteBuffer",
+                  "printedName": "NIOCore.ByteBuffer",
+                  "usr": "s:7NIOCore10ByteBufferV"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "InboundOut",
+              "printedName": "InboundOut",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ByteBuffer",
+                  "printedName": "NIOCore.ByteBuffer",
+                  "usr": "s:7NIOCore10ByteBufferV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7NIOCore21ChannelInboundHandlerP",
+          "mangledName": "$s7NIOCore21ChannelInboundHandlerP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ChannelOutboundHandler",
+          "printedName": "ChannelOutboundHandler",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "OutboundIn",
+              "printedName": "OutboundIn",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ByteBuffer",
+                  "printedName": "NIOCore.ByteBuffer",
+                  "usr": "s:7NIOCore10ByteBufferV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7NIOCore22ChannelOutboundHandlerP",
+          "mangledName": "$s7NIOCore22ChannelOutboundHandlerP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_ChannelInboundHandler",
+          "printedName": "_ChannelInboundHandler",
+          "usr": "s:7NIOCore22_ChannelInboundHandlerP",
+          "mangledName": "$s7NIOCore22_ChannelInboundHandlerP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_EmittingChannelHandler",
+          "printedName": "_EmittingChannelHandler",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "OutboundOut",
+              "printedName": "OutboundOut",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ByteBuffer",
+                  "printedName": "NIOCore.ByteBuffer",
+                  "usr": "s:7NIOCore10ByteBufferV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7NIOCore23_EmittingChannelHandlerP",
+          "mangledName": "$s7NIOCore23_EmittingChannelHandlerP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_ChannelOutboundHandler",
+          "printedName": "_ChannelOutboundHandler",
+          "usr": "s:7NIOCore23_ChannelOutboundHandlerP",
+          "mangledName": "$s7NIOCore23_ChannelOutboundHandlerP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ChannelHandler",
+          "printedName": "ChannelHandler",
+          "usr": "s:7NIOCore14ChannelHandlerP",
+          "mangledName": "$s7NIOCore14ChannelHandlerP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

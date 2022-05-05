@@ -1,0 +1,16 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "0f606a3119a844d9bafcec1b782f5fe1aa74a7be593ff6d2901aa7694df63fbb"
+build_start_time: [1651168668, 203789949]
+build_end_time: [1651168673, 623582839]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift": [1651165061, 573932647]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1651165061, 577932834]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1651165061, 577932834]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1651165061, 577932834]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1651165061, 577932834]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1651165061, 577932834]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1651165061, 577932834]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1651165061, 577932834]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift": [1651165061, 581932783]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1651165061, 581932783]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift": [1651165061, 581932783]

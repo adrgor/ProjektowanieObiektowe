@@ -1,0 +1,112 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "60f10d212b4e112457ee9765c0ff986cd628c6320f4079841b3172be7f56115c"
+build_start_time: [1651165361, 636705875]
+build_end_time: [1651165362, 526427984]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLAlterEnumBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLAlterTableBuilder.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLColumnUpdateBuilder.swift"
+  : !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLConflictUpdateBuilder.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateEnumBuilder.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateIndexBuilder.swift"
+  : !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTableAsSubqueryBuilder.swift"
+  : !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTableBuilder.swift"
+  : !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTriggerBuilder.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDeleteBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropEnumBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropIndexBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropTableBuilder.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropTriggerBuilder.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLInsertBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLJoinBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLPredicateBuilder.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLPredicateGroupBuilder.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLQueryBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLQueryFetcher.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLRawBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLReturningBuilder.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSecondaryPredicateBuilder.swift"
+  : !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSecondaryPredicateGroupBuilder.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSelectBuilder.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSubqeryClauseBuilder.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLUnionBuilder.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLUpdateBuilder.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLDatabase+Concurrency.swift"
+  : !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLQueryBuilder+Concurrency.swift"
+  : !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLQueryFetcher+Concurrency.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Exports.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlias.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterColumnDefinitionType.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterEnum.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterTable.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBinaryExpression.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBinaryOperator.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBind.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnAssignment.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnConstraintAlgorithm.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnDefinition.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnIdentifier.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConflictAction.swift": !private [1651165062, 269944906]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConflictResolutionStrategy.swift"
+  : !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConstraint.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateEnum.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateIndex.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateTable.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateTrigger.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDataType.swift": !private [1651165062, 269944906]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDelete.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDirection.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDistinct.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropBehaviour.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropEnum.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropIndex.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropTable.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropTrigger.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLEnumDataType.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLExcludedColumn.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLForeignKey.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLForeignKeyAction.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLFunction.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLGroupExpression.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLIdentifier.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLInsert.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLJoin.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLJoinMethod.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLList.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLLiteral.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLLockingClause.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLOrderBy.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLQueryString.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLRaw.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLReturning.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLSelect.swift": !private [1651165062, 273944854]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLTableConstraintAlgorithm.swift"
+  : !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLUnion.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLUpdate.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLDatabase.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLDialect.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLError.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLExpression.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLQueryEncoder.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLRow.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLRowDecoder.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLSerializer.swift": !private [1651165062, 273944854]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sql-kit/Sources/SQLKit/SQLStatement.swift": !private [1651165062, 273944854]

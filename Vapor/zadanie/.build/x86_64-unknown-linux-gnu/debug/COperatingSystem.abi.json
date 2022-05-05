@@ -1,0 +1,18 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Glibc",
+      "printedName": "Glibc",
+      "declKind": "Import",
+      "moduleName": "COperatingSystem",
+      "declAttributes": [
+        "Exported"
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

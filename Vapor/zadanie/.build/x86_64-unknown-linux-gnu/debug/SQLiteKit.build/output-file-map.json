@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/master.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/Exports.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/Exports.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/Exports.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/Exports.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConfiguration.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConfiguration.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConfiguration.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConfiguration.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConnection+SQLKit.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnection+SQLKit.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnection+SQLKit.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnection+SQLKit~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnection+SQLKit.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConnectionSource.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnectionSource.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnectionSource.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnectionSource~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteConnectionSource.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDataDecoder.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataDecoder.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataDecoder.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataDecoder~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataDecoder.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDataEncoder.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataEncoder.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataEncoder.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDataEncoder.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDialect.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDialect.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDialect.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDialect~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteDialect.swiftdeps"
+  },
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteRow+SQLRow.swift": {
+    "dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteRow+SQLRow.d",
+    "object": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteRow+SQLRow.swift.o",
+    "swiftmodule": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteRow+SQLRow~partial.swiftmodule",
+    "swift-dependencies": "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/x86_64-unknown-linux-gnu/debug/SQLiteKit.build/SQLiteRow+SQLRow.swiftdeps"
+  }
+}

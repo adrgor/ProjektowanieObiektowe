@@ -1,0 +1,61 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1651165283, 24241924]
+build_end_time: [1651165286, 319236993]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityBar.swift": [1651165064, 201979160]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicator.swift"
+  : [1651165064, 201979160]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorRenderer.swift"
+  : [1651165064, 201979160]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorState.swift"
+  : [1651165064, 201979160]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/CustomActivity.swift"
+  : [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/LoadingBar.swift": [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ProgressBar.swift": [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Clear.swift": [1651165064, 201979160]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Ephemeral.swift"
+  : [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/ConsoleClear.swift": [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/AnyCommand.swift": [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Argument.swift": [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Command.swift": [1651165064, 201979160]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandContext.swift"
+  : [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandError.swift": [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandGroup.swift": [1651165064, 201979160]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandInput.swift": [1651165064, 201979160]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandSignature.swift"
+  : [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Commands.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Completion.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Console+Run.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Flag.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Option.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Utilities.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Console.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Ask.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Choose.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Confirm.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Input.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Center.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Output.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Wait.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleColor.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleStyle.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleText.swift": [1651165064, 205979108]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleTextFragment.swift"
+  : [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/ANSI.swift": [1651165064, 205979108]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/Terminal.swift": [1651165064, 205979108]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/readpassphrase_linux.swift"
+  : [1651165064, 205979108]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleError.swift"
+  : [1651165064, 205979108]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleLogger.swift"
+  : [1651165064, 205979108]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/GenerateAutocompleteCommand.swift"
+  : [1651165064, 205979108]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/String+LevenshteinDistance.swift"
+  : [1651165064, 205979108]

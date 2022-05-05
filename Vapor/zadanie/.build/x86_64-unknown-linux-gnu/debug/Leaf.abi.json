@@ -1,0 +1,2249 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "Leaf"
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf"
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "LeafEncoder",
+      "printedName": "LeafEncoder",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "encode",
+          "printedName": "encode(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : LeafKit.LeafData]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "LeafData",
+                  "printedName": "LeafKit.LeafData",
+                  "usr": "s:7LeafKit0A4DataV"
+                }
+              ],
+              "usr": "s:SD"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "GenericTypeParam",
+              "printedName": "τ_0_0"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:4Leaf0A7EncoderC6encodeySDySS0A3Kit0A4DataVGxKSERzlF",
+          "mangledName": "$s4Leaf0A7EncoderC6encodeySDySS0A3Kit0A4DataVGxKSERzlF",
+          "moduleName": "Leaf",
+          "genericSig": "<τ_0_0 where τ_0_0 : Swift.Encodable>",
+          "sugared_genericSig": "<E where E : Swift.Encodable>",
+          "declAttributes": [
+            "Final"
+          ],
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "LeafEncoder",
+              "printedName": "Leaf.LeafEncoder",
+              "usr": "s:4Leaf0A7EncoderC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:4Leaf0A7EncoderCACycfc",
+          "mangledName": "$s4Leaf0A7EncoderCACycfc",
+          "moduleName": "Leaf",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:4Leaf0A7EncoderC",
+      "mangledName": "$s4Leaf0A7EncoderC",
+      "moduleName": "Leaf",
+      "declAttributes": [
+        "Final",
+        "AccessControl"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "_Container",
+      "printedName": "_Container",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "data",
+          "printedName": "data",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Leaf._Data?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "_Data",
+                  "printedName": "Leaf._Data",
+                  "usr": "s:4Leaf5_DataO"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:4Leaf10_ContainerP4dataAA5_DataOSgvp",
+          "mangledName": "$s4Leaf10_ContainerP4dataAA5_DataOSgvp",
+          "moduleName": "Leaf",
+          "protocolReq": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Leaf._Data?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "_Data",
+                      "printedName": "Leaf._Data",
+                      "usr": "s:4Leaf5_DataO"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:4Leaf10_ContainerP4dataAA5_DataOSgvg",
+              "mangledName": "$s4Leaf10_ContainerP4dataAA5_DataOSgvg",
+              "moduleName": "Leaf",
+              "genericSig": "<τ_0_0 where τ_0_0 : Leaf._Container>",
+              "sugared_genericSig": "<Self where Self : Leaf._Container>",
+              "protocolReq": true,
+              "reqNewWitnessTableEntry": true,
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Protocol",
+      "usr": "s:4Leaf10_ContainerP",
+      "mangledName": "$s4Leaf10_ContainerP",
+      "moduleName": "Leaf",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "_Data",
+      "printedName": "_Data",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "container",
+          "printedName": "container",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Leaf._Data.Type) -> (Leaf._Container) -> Leaf._Data",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(Leaf._Container) -> Leaf._Data",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "_Data",
+                      "printedName": "Leaf._Data",
+                      "usr": "s:4Leaf5_DataO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "_Container",
+                      "printedName": "Leaf._Container",
+                      "usr": "s:4Leaf10_ContainerP"
+                    }
+                  ]
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "Leaf._Data.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "_Data",
+                      "printedName": "Leaf._Data",
+                      "usr": "s:4Leaf5_DataO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:4Leaf5_DataO9containeryAcA10_Container_pcACmF",
+          "mangledName": "$s4Leaf5_DataO9containeryAcA10_Container_pcACmF",
+          "moduleName": "Leaf",
+          "fixedbinaryorder": 0
+        },
+        {
+          "kind": "Var",
+          "name": "data",
+          "printedName": "data",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Leaf._Data.Type) -> (LeafKit.LeafData) -> Leaf._Data",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(LeafKit.LeafData) -> Leaf._Data",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "_Data",
+                      "printedName": "Leaf._Data",
+                      "usr": "s:4Leaf5_DataO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafData",
+                      "printedName": "LeafKit.LeafData",
+                      "usr": "s:7LeafKit0A4DataV"
+                    }
+                  ]
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "Leaf._Data.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "_Data",
+                      "printedName": "Leaf._Data",
+                      "usr": "s:4Leaf5_DataO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:4Leaf5_DataO4datayAC0A3Kit0aB0VcACmF",
+          "mangledName": "$s4Leaf5_DataO4datayAC0A3Kit0aB0VcACmF",
+          "moduleName": "Leaf",
+          "fixedbinaryorder": 1
+        },
+        {
+          "kind": "Function",
+          "name": "resolve",
+          "printedName": "resolve()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "LeafData",
+              "printedName": "LeafKit.LeafData",
+              "usr": "s:7LeafKit0A4DataV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:4Leaf5_DataO7resolve0A3Kit0aB0VyF",
+          "mangledName": "$s4Leaf5_DataO7resolve0A3Kit0aB0VyF",
+          "moduleName": "Leaf",
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:4Leaf5_DataO",
+      "mangledName": "$s4Leaf5_DataO",
+      "moduleName": "Leaf",
+      "isEnumExhaustive": true
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "Leaf"
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "Leaf"
+    },
+    {
+      "kind": "Import",
+      "name": "LeafKit",
+      "printedName": "LeafKit",
+      "declKind": "Import",
+      "moduleName": "Leaf"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Provider",
+      "printedName": "Provider",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "leaf",
+          "printedName": "leaf",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Provider",
+              "printedName": "Vapor.Application.Views.Provider",
+              "usr": "s:5Vapor11ApplicationC5ViewsV8ProviderV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:5Vapor11ApplicationC5ViewsV8ProviderV4LeafE4leafAGvpZ",
+          "mangledName": "$s5Vapor11ApplicationC5ViewsV8ProviderV4LeafE4leafAGvpZ",
+          "moduleName": "Leaf",
+          "static": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Provider",
+                  "printedName": "Vapor.Application.Views.Provider",
+                  "usr": "s:5Vapor11ApplicationC5ViewsV8ProviderV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:5Vapor11ApplicationC5ViewsV8ProviderV4LeafE4leafAGvgZ",
+              "mangledName": "$s5Vapor11ApplicationC5ViewsV8ProviderV4LeafE4leafAGvgZ",
+              "moduleName": "Leaf",
+              "static": true,
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:5Vapor11ApplicationC5ViewsV8ProviderV",
+      "mangledName": "$s5Vapor11ApplicationC5ViewsV8ProviderV",
+      "moduleName": "Vapor",
+      "isExternal": true
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Application",
+      "printedName": "Application",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "leaf",
+          "printedName": "leaf",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Leaf",
+              "printedName": "Vapor.Application.Leaf",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:5Vapor11ApplicationC4LeafE4leafAcDEADVvp",
+          "mangledName": "$s5Vapor11ApplicationC4LeafE4leafAcDEADVvp",
+          "moduleName": "Leaf",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Leaf",
+                  "printedName": "Vapor.Application.Leaf",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:5Vapor11ApplicationC4LeafE4leafAcDEADVvg",
+              "mangledName": "$s5Vapor11ApplicationC4LeafE4leafAcDEADVvg",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "TypeDecl",
+          "name": "Leaf",
+          "printedName": "Leaf",
+          "children": [
+            {
+              "kind": "Var",
+              "name": "application",
+              "printedName": "application",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Application",
+                  "printedName": "Vapor.Application",
+                  "usr": "s:5Vapor11ApplicationC"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV11applicationACvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV11applicationACvp",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "HasStorage",
+                "AccessControl"
+              ],
+              "fixedbinaryorder": 0,
+              "isLet": true,
+              "hasStorage": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Application",
+                      "printedName": "Vapor.Application",
+                      "usr": "s:5Vapor11ApplicationC"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV11applicationACvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV11applicationACvg",
+                  "moduleName": "Leaf",
+                  "implicit": true,
+                  "declAttributes": [
+                    "Transparent"
+                  ],
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "renderer",
+              "printedName": "renderer",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LeafRenderer",
+                  "printedName": "LeafKit.LeafRenderer",
+                  "usr": "s:7LeafKit0A8RendererC"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV8renderer0C3Kit0C8RendererCvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV8renderer0C3Kit0C8RendererCvp",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "AccessControl"
+              ],
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafRenderer",
+                      "printedName": "LeafKit.LeafRenderer",
+                      "usr": "s:7LeafKit0A8RendererC"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV8renderer0C3Kit0C8RendererCvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV8renderer0C3Kit0C8RendererCvg",
+                  "moduleName": "Leaf",
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "configuration",
+              "printedName": "configuration",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LeafConfiguration",
+                  "printedName": "LeafKit.LeafConfiguration",
+                  "usr": "s:7LeafKit0A13ConfigurationV"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvp",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "AccessControl"
+              ],
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafConfiguration",
+                      "printedName": "LeafKit.LeafConfiguration",
+                      "usr": "s:7LeafKit0A13ConfigurationV"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvg",
+                  "moduleName": "Leaf",
+                  "accessorKind": "get"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Set",
+                  "printedName": "Set()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafConfiguration",
+                      "printedName": "LeafKit.LeafConfiguration",
+                      "usr": "s:7LeafKit0A13ConfigurationV"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvs",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvs",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "NonMutating"
+                  ],
+                  "accessorKind": "set"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Modify",
+                  "printedName": "Modify()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvM",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV13configuration0C3Kit0C13ConfigurationVvM",
+                  "moduleName": "Leaf",
+                  "implicit": true,
+                  "declAttributes": [
+                    "Transparent"
+                  ],
+                  "accessorKind": "_modify"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "tags",
+              "printedName": "tags",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Swift.String : LeafKit.LeafTag]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafTag",
+                      "printedName": "LeafKit.LeafTag",
+                      "usr": "s:7LeafKit0A3TagP"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvp",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "AccessControl"
+              ],
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Swift.String : LeafKit.LeafTag]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "LeafTag",
+                          "printedName": "LeafKit.LeafTag",
+                          "usr": "s:7LeafKit0A3TagP"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvg",
+                  "moduleName": "Leaf",
+                  "accessorKind": "get"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Set",
+                  "printedName": "Set()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Swift.String : LeafKit.LeafTag]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "LeafTag",
+                          "printedName": "LeafKit.LeafTag",
+                          "usr": "s:7LeafKit0A3TagP"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvs",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvs",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "NonMutating"
+                  ],
+                  "accessorKind": "set"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Modify",
+                  "printedName": "Modify()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvM",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV4tagsSDySS0C3Kit0C3Tag_pGvM",
+                  "moduleName": "Leaf",
+                  "implicit": true,
+                  "declAttributes": [
+                    "Transparent"
+                  ],
+                  "accessorKind": "_modify"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "sources",
+              "printedName": "sources",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LeafSources",
+                  "printedName": "LeafKit.LeafSources",
+                  "usr": "s:7LeafKit0A7SourcesC"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvp",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "AccessControl"
+              ],
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafSources",
+                      "printedName": "LeafKit.LeafSources",
+                      "usr": "s:7LeafKit0A7SourcesC"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvg",
+                  "moduleName": "Leaf",
+                  "accessorKind": "get"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Set",
+                  "printedName": "Set()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafSources",
+                      "printedName": "LeafKit.LeafSources",
+                      "usr": "s:7LeafKit0A7SourcesC"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvs",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvs",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "NonMutating"
+                  ],
+                  "accessorKind": "set"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Modify",
+                  "printedName": "Modify()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvM",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7sources0C3Kit0C7SourcesCvM",
+                  "moduleName": "Leaf",
+                  "implicit": true,
+                  "declAttributes": [
+                    "Transparent"
+                  ],
+                  "accessorKind": "_modify"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "cache",
+              "printedName": "cache",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LeafCache",
+                  "printedName": "LeafKit.LeafCache",
+                  "usr": "s:7LeafKit0A5CacheP"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvp",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "AccessControl"
+              ],
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafCache",
+                      "printedName": "LeafKit.LeafCache",
+                      "usr": "s:7LeafKit0A5CacheP"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvg",
+                  "moduleName": "Leaf",
+                  "accessorKind": "get"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Set",
+                  "printedName": "Set()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafCache",
+                      "printedName": "LeafKit.LeafCache",
+                      "usr": "s:7LeafKit0A5CacheP"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvs",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvs",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "NonMutating"
+                  ],
+                  "accessorKind": "set"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Modify",
+                  "printedName": "Modify()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvM",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV5cache0C3Kit0C5Cache_pvM",
+                  "moduleName": "Leaf",
+                  "implicit": true,
+                  "declAttributes": [
+                    "Transparent"
+                  ],
+                  "accessorKind": "_modify"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "userInfo",
+              "printedName": "userInfo",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Swift.AnyHashable : Any]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "AnyHashable",
+                      "printedName": "Swift.AnyHashable",
+                      "usr": "s:s11AnyHashableV"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvp",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "AccessControl"
+              ],
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Swift.AnyHashable : Any]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "AnyHashable",
+                          "printedName": "Swift.AnyHashable",
+                          "usr": "s:s11AnyHashableV"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "ProtocolComposition",
+                          "printedName": "Any"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvg",
+                  "moduleName": "Leaf",
+                  "accessorKind": "get"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Set",
+                  "printedName": "Set()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Swift.AnyHashable : Any]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "AnyHashable",
+                          "printedName": "Swift.AnyHashable",
+                          "usr": "s:s11AnyHashableV"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "ProtocolComposition",
+                          "printedName": "Any"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvs",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvs",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "NonMutating"
+                  ],
+                  "accessorKind": "set"
+                },
+                {
+                  "kind": "Accessor",
+                  "name": "Modify",
+                  "printedName": "Modify()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvM",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV8userInfoSDys11AnyHashableVypGvM",
+                  "moduleName": "Leaf",
+                  "implicit": true,
+                  "declAttributes": [
+                    "Transparent"
+                  ],
+                  "accessorKind": "_modify"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "storage",
+              "printedName": "storage",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Storage",
+                  "printedName": "Vapor.Application.Leaf.Storage",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV7storageAE7StorageCvp",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV7storageAE7StorageCvp",
+              "moduleName": "Leaf",
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Storage",
+                      "printedName": "Vapor.Application.Leaf.Storage",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7storageAE7StorageCvg",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7storageAE7StorageCvg",
+                  "moduleName": "Leaf",
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "TypeDecl",
+              "name": "Key",
+              "printedName": "Key",
+              "children": [
+                {
+                  "kind": "Constructor",
+                  "name": "init",
+                  "printedName": "init()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Key",
+                      "printedName": "Vapor.Application.Leaf.Key",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV3KeyV"
+                    }
+                  ],
+                  "declKind": "Constructor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV3KeyVAGycfc",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV3KeyVAGycfc",
+                  "moduleName": "Leaf",
+                  "implicit": true,
+                  "init_kind": "Designated"
+                }
+              ],
+              "declKind": "Struct",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV3KeyV",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV3KeyV",
+              "moduleName": "Leaf",
+              "conformances": [
+                {
+                  "kind": "Conformance",
+                  "name": "StorageKey",
+                  "printedName": "StorageKey",
+                  "children": [
+                    {
+                      "kind": "TypeWitness",
+                      "name": "Value",
+                      "printedName": "Value",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Storage",
+                          "printedName": "Vapor.Application.Leaf.Storage",
+                          "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC"
+                        }
+                      ]
+                    }
+                  ],
+                  "usr": "s:5Vapor10StorageKeyP",
+                  "mangledName": "$s5Vapor10StorageKeyP"
+                },
+                {
+                  "kind": "Conformance",
+                  "name": "Sendable",
+                  "printedName": "Sendable",
+                  "usr": "s:s8SendableP",
+                  "mangledName": "$ss8SendableP"
+                }
+              ]
+            },
+            {
+              "kind": "TypeDecl",
+              "name": "Storage",
+              "printedName": "Storage",
+              "children": [
+                {
+                  "kind": "Var",
+                  "name": "cache",
+                  "printedName": "cache",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LeafCache",
+                      "printedName": "LeafKit.LeafCache",
+                      "usr": "s:7LeafKit0A5CacheP"
+                    }
+                  ],
+                  "declKind": "Var",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvp",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvp",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "Final",
+                    "HasStorage"
+                  ],
+                  "fixedbinaryorder": 0,
+                  "hasStorage": true,
+                  "accessors": [
+                    {
+                      "kind": "Accessor",
+                      "name": "Get",
+                      "printedName": "Get()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "LeafCache",
+                          "printedName": "LeafKit.LeafCache",
+                          "usr": "s:7LeafKit0A5CacheP"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvg",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvg",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "get"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Set",
+                      "printedName": "Set()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "LeafCache",
+                          "printedName": "LeafKit.LeafCache",
+                          "usr": "s:7LeafKit0A5CacheP"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvs",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvs",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "set"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Modify",
+                      "printedName": "Modify()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvM",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC5cache0C3Kit0C5Cache_pvM",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "_modify"
+                    }
+                  ]
+                },
+                {
+                  "kind": "Var",
+                  "name": "configuration",
+                  "printedName": "configuration",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Optional",
+                      "printedName": "LeafKit.LeafConfiguration?",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "LeafConfiguration",
+                          "printedName": "LeafKit.LeafConfiguration",
+                          "usr": "s:7LeafKit0A13ConfigurationV"
+                        }
+                      ],
+                      "usr": "s:Sq"
+                    }
+                  ],
+                  "declKind": "Var",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvp",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvp",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "HasInitialValue",
+                    "Final",
+                    "HasStorage"
+                  ],
+                  "fixedbinaryorder": 1,
+                  "hasStorage": true,
+                  "accessors": [
+                    {
+                      "kind": "Accessor",
+                      "name": "Get",
+                      "printedName": "Get()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Optional",
+                          "printedName": "LeafKit.LeafConfiguration?",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "LeafConfiguration",
+                              "printedName": "LeafKit.LeafConfiguration",
+                              "usr": "s:7LeafKit0A13ConfigurationV"
+                            }
+                          ],
+                          "usr": "s:Sq"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvg",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvg",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "get"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Set",
+                      "printedName": "Set()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Optional",
+                          "printedName": "LeafKit.LeafConfiguration?",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "LeafConfiguration",
+                              "printedName": "LeafKit.LeafConfiguration",
+                              "usr": "s:7LeafKit0A13ConfigurationV"
+                            }
+                          ],
+                          "usr": "s:Sq"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvs",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvs",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "set"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Modify",
+                      "printedName": "Modify()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvM",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC13configuration0C3Kit0C13ConfigurationVSgvM",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "_modify"
+                    }
+                  ]
+                },
+                {
+                  "kind": "Var",
+                  "name": "sources",
+                  "printedName": "sources",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Optional",
+                      "printedName": "LeafKit.LeafSources?",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "LeafSources",
+                          "printedName": "LeafKit.LeafSources",
+                          "usr": "s:7LeafKit0A7SourcesC"
+                        }
+                      ],
+                      "usr": "s:Sq"
+                    }
+                  ],
+                  "declKind": "Var",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvp",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvp",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "HasInitialValue",
+                    "Final",
+                    "HasStorage"
+                  ],
+                  "fixedbinaryorder": 2,
+                  "hasStorage": true,
+                  "accessors": [
+                    {
+                      "kind": "Accessor",
+                      "name": "Get",
+                      "printedName": "Get()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Optional",
+                          "printedName": "LeafKit.LeafSources?",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "LeafSources",
+                              "printedName": "LeafKit.LeafSources",
+                              "usr": "s:7LeafKit0A7SourcesC"
+                            }
+                          ],
+                          "usr": "s:Sq"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvg",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvg",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "get"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Set",
+                      "printedName": "Set()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Optional",
+                          "printedName": "LeafKit.LeafSources?",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "LeafSources",
+                              "printedName": "LeafKit.LeafSources",
+                              "usr": "s:7LeafKit0A7SourcesC"
+                            }
+                          ],
+                          "usr": "s:Sq"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvs",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvs",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "set"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Modify",
+                      "printedName": "Modify()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvM",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC7sources0C3Kit0C7SourcesCSgvM",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "_modify"
+                    }
+                  ]
+                },
+                {
+                  "kind": "Var",
+                  "name": "tags",
+                  "printedName": "tags",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Swift.String : LeafKit.LeafTag]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "LeafTag",
+                          "printedName": "LeafKit.LeafTag",
+                          "usr": "s:7LeafKit0A3TagP"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "declKind": "Var",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvp",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvp",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "Final",
+                    "HasStorage"
+                  ],
+                  "fixedbinaryorder": 3,
+                  "hasStorage": true,
+                  "accessors": [
+                    {
+                      "kind": "Accessor",
+                      "name": "Get",
+                      "printedName": "Get()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Dictionary",
+                          "printedName": "[Swift.String : LeafKit.LeafTag]",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "String",
+                              "printedName": "Swift.String",
+                              "usr": "s:SS"
+                            },
+                            {
+                              "kind": "TypeNominal",
+                              "name": "LeafTag",
+                              "printedName": "LeafKit.LeafTag",
+                              "usr": "s:7LeafKit0A3TagP"
+                            }
+                          ],
+                          "usr": "s:SD"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvg",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvg",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "get"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Set",
+                      "printedName": "Set()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Dictionary",
+                          "printedName": "[Swift.String : LeafKit.LeafTag]",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "String",
+                              "printedName": "Swift.String",
+                              "usr": "s:SS"
+                            },
+                            {
+                              "kind": "TypeNominal",
+                              "name": "LeafTag",
+                              "printedName": "LeafKit.LeafTag",
+                              "usr": "s:7LeafKit0A3TagP"
+                            }
+                          ],
+                          "usr": "s:SD"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvs",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvs",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "set"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Modify",
+                      "printedName": "Modify()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvM",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC4tagsSDySS0C3Kit0C3Tag_pGvM",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "_modify"
+                    }
+                  ]
+                },
+                {
+                  "kind": "Var",
+                  "name": "userInfo",
+                  "printedName": "userInfo",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Swift.AnyHashable : Any]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "AnyHashable",
+                          "printedName": "Swift.AnyHashable",
+                          "usr": "s:s11AnyHashableV"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "ProtocolComposition",
+                          "printedName": "Any"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "declKind": "Var",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvp",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvp",
+                  "moduleName": "Leaf",
+                  "declAttributes": [
+                    "Final",
+                    "HasStorage"
+                  ],
+                  "fixedbinaryorder": 4,
+                  "hasStorage": true,
+                  "accessors": [
+                    {
+                      "kind": "Accessor",
+                      "name": "Get",
+                      "printedName": "Get()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Dictionary",
+                          "printedName": "[Swift.AnyHashable : Any]",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "AnyHashable",
+                              "printedName": "Swift.AnyHashable",
+                              "usr": "s:s11AnyHashableV"
+                            },
+                            {
+                              "kind": "TypeNominal",
+                              "name": "ProtocolComposition",
+                              "printedName": "Any"
+                            }
+                          ],
+                          "usr": "s:SD"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvg",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvg",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "get"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Set",
+                      "printedName": "Set()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Dictionary",
+                          "printedName": "[Swift.AnyHashable : Any]",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "AnyHashable",
+                              "printedName": "Swift.AnyHashable",
+                              "usr": "s:s11AnyHashableV"
+                            },
+                            {
+                              "kind": "TypeNominal",
+                              "name": "ProtocolComposition",
+                              "printedName": "Any"
+                            }
+                          ],
+                          "usr": "s:SD"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvs",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvs",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "set"
+                    },
+                    {
+                      "kind": "Accessor",
+                      "name": "Modify",
+                      "printedName": "Modify()",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Void",
+                          "printedName": "()"
+                        }
+                      ],
+                      "declKind": "Accessor",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvM",
+                      "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC8userInfoSDys11AnyHashableVypGvM",
+                      "moduleName": "Leaf",
+                      "implicit": true,
+                      "declAttributes": [
+                        "Transparent",
+                        "Final"
+                      ],
+                      "accessorKind": "_modify"
+                    }
+                  ]
+                },
+                {
+                  "kind": "Constructor",
+                  "name": "init",
+                  "printedName": "init()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Storage",
+                      "printedName": "Vapor.Application.Leaf.Storage",
+                      "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC"
+                    }
+                  ],
+                  "declKind": "Constructor",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageCAGycfc",
+                  "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageCAGycfc",
+                  "moduleName": "Leaf",
+                  "init_kind": "Designated"
+                }
+              ],
+              "declKind": "Class",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV7StorageC",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV7StorageC",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "Final"
+              ]
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(application:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Leaf",
+                  "printedName": "Vapor.Application.Leaf",
+                  "usr": "s:5Vapor11ApplicationC4LeafEADV"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Application",
+                  "printedName": "Vapor.Application",
+                  "usr": "s:5Vapor11ApplicationC"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:5Vapor11ApplicationC4LeafEADV11applicationAeC_tcfc",
+              "mangledName": "$s5Vapor11ApplicationC4LeafEADV11applicationAeC_tcfc",
+              "moduleName": "Leaf",
+              "implicit": true,
+              "init_kind": "Designated"
+            }
+          ],
+          "declKind": "Struct",
+          "usr": "s:5Vapor11ApplicationC4LeafEADV",
+          "mangledName": "$s5Vapor11ApplicationC4LeafEADV",
+          "moduleName": "Leaf",
+          "declAttributes": [
+            "AccessControl"
+          ]
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:5Vapor11ApplicationC",
+      "mangledName": "$s5Vapor11ApplicationC",
+      "moduleName": "Vapor",
+      "declAttributes": [
+        "Final"
+      ],
+      "isExternal": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "RoutesBuilder",
+          "printedName": "RoutesBuilder",
+          "usr": "s:5Vapor13RoutesBuilderP",
+          "mangledName": "$s5Vapor13RoutesBuilderP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "LeafContext",
+      "printedName": "LeafContext",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "application",
+          "printedName": "application",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Vapor.Application?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Application",
+                  "printedName": "Vapor.Application",
+                  "usr": "s:5Vapor11ApplicationC"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:7LeafKit0A7ContextV0A0E11application5Vapor11ApplicationCSgvp",
+          "mangledName": "$s7LeafKit0A7ContextV0A0E11application5Vapor11ApplicationCSgvp",
+          "moduleName": "Leaf",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Vapor.Application?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Application",
+                      "printedName": "Vapor.Application",
+                      "usr": "s:5Vapor11ApplicationC"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:7LeafKit0A7ContextV0A0E11application5Vapor11ApplicationCSgvg",
+              "mangledName": "$s7LeafKit0A7ContextV0A0E11application5Vapor11ApplicationCSgvg",
+              "moduleName": "Leaf",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "request",
+          "printedName": "request",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Vapor.Request?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Request",
+                  "printedName": "Vapor.Request",
+                  "usr": "s:5Vapor7RequestC"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:7LeafKit0A7ContextV0A0E7request5Vapor7RequestCSgvp",
+          "mangledName": "$s7LeafKit0A7ContextV0A0E7request5Vapor7RequestCSgvp",
+          "moduleName": "Leaf",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Vapor.Request?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Request",
+                      "printedName": "Vapor.Request",
+                      "usr": "s:5Vapor7RequestC"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:7LeafKit0A7ContextV0A0E7request5Vapor7RequestCSgvg",
+              "mangledName": "$s7LeafKit0A7ContextV0A0E7request5Vapor7RequestCSgvg",
+              "moduleName": "Leaf",
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:7LeafKit0A7ContextV",
+      "mangledName": "$s7LeafKit0A7ContextV",
+      "moduleName": "LeafKit",
+      "isExternal": true
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "LeafRenderer",
+      "printedName": "LeafRenderer",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "for",
+          "printedName": "for(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ViewRenderer",
+              "printedName": "Vapor.ViewRenderer",
+              "usr": "s:5Vapor12ViewRendererP"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Request",
+              "printedName": "Vapor.Request",
+              "usr": "s:5Vapor7RequestC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:7LeafKit0A8RendererC0A0E3fory5Vapor04ViewC0_pAF7RequestCF",
+          "mangledName": "$s7LeafKit0A8RendererC0A0E3fory5Vapor04ViewC0_pAF7RequestCF",
+          "moduleName": "Leaf",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "render",
+          "printedName": "render(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<Vapor.View>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "Vapor.View",
+                  "usr": "s:5Vapor4ViewV"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "GenericTypeParam",
+              "printedName": "τ_0_0"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:7LeafKit0A8RendererC0A0E6rendery7NIOCore15EventLoopFutureCy5Vapor4ViewVGSS_xtSERzlF",
+          "mangledName": "$s7LeafKit0A8RendererC0A0E6rendery7NIOCore15EventLoopFutureCy5Vapor4ViewVGSS_xtSERzlF",
+          "moduleName": "Leaf",
+          "genericSig": "<τ_0_0 where τ_0_0 : Swift.Encodable>",
+          "sugared_genericSig": "<E where E : Swift.Encodable>",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "render",
+          "printedName": "render(path:context:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EventLoopFuture",
+              "printedName": "NIOCore.EventLoopFuture<NIOCore.ByteBuffer>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ByteBuffer",
+                  "printedName": "NIOCore.ByteBuffer",
+                  "usr": "s:7NIOCore10ByteBufferV"
+                }
+              ],
+              "usr": "s:7NIOCore15EventLoopFutureC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "GenericTypeParam",
+              "printedName": "τ_0_0"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:7LeafKit0A8RendererC0A0E6render4path7context7NIOCore15EventLoopFutureCyAH10ByteBufferVGSS_xtSERzlF",
+          "mangledName": "$s7LeafKit0A8RendererC0A0E6render4path7context7NIOCore15EventLoopFutureCyAH10ByteBufferVGSS_xtSERzlF",
+          "moduleName": "Leaf",
+          "genericSig": "<τ_0_0 where τ_0_0 : Swift.Encodable>",
+          "sugared_genericSig": "<Context where Context : Swift.Encodable>",
+          "declAttributes": [
+            "Final",
+            "AccessControl",
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:7LeafKit0A8RendererC",
+      "mangledName": "$s7LeafKit0A8RendererC",
+      "moduleName": "LeafKit",
+      "declAttributes": [
+        "Final"
+      ],
+      "isExternal": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "ViewRenderer",
+          "printedName": "ViewRenderer",
+          "usr": "s:5Vapor12ViewRendererP",
+          "mangledName": "$s5Vapor12ViewRendererP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Request",
+      "printedName": "Request",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "leaf",
+          "printedName": "leaf",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "LeafRenderer",
+              "printedName": "LeafKit.LeafRenderer",
+              "usr": "s:7LeafKit0A8RendererC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:5Vapor7RequestC4LeafE4leaf0C3Kit0C8RendererCvp",
+          "mangledName": "$s5Vapor7RequestC4LeafE4leaf0C3Kit0C8RendererCvp",
+          "moduleName": "Leaf",
+          "declAttributes": [
+            "Final",
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LeafRenderer",
+                  "printedName": "LeafKit.LeafRenderer",
+                  "usr": "s:7LeafKit0A8RendererC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:5Vapor7RequestC4LeafE4leaf0C3Kit0C8RendererCvg",
+              "mangledName": "$s5Vapor7RequestC4LeafE4leaf0C3Kit0C8RendererCvg",
+              "moduleName": "Leaf",
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:5Vapor7RequestC",
+      "mangledName": "$s5Vapor7RequestC",
+      "moduleName": "Vapor",
+      "declAttributes": [
+        "Final"
+      ],
+      "isExternal": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AsyncRequestDecodable",
+          "printedName": "AsyncRequestDecodable",
+          "usr": "s:5Vapor21AsyncRequestDecodableP",
+          "mangledName": "$s5Vapor21AsyncRequestDecodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "RequestDecodable",
+          "printedName": "RequestDecodable",
+          "usr": "s:5Vapor16RequestDecodableP",
+          "mangledName": "$s5Vapor16RequestDecodableP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

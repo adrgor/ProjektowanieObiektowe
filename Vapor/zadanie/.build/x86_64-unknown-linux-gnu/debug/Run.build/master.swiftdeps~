@@ -1,0 +1,6 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "29b51033ea7f3abc3d2cbb8d66bec4bb99c50f58628030ce61b2245561e1abf5"
+build_start_time: [1651168884, 926090002]
+build_end_time: [1651168885, 351224899]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/Run/main.swift": [1651164589, 521102905]

@@ -1,0 +1,140 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "60f10d212b4e112457ee9765c0ff986cd628c6320f4079841b3172be7f56115c"
+build_start_time: [1651168699, 398508071]
+build_end_time: [1651168711, 981800079]
+inputs:
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/AsyncMigration.swift"
+  : [1651165065, 654004573]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/AsyncModelMiddleware.swift"
+  : [1651165065, 654004573]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Children+Concurrency.swift"
+  : [1651165065, 654004573]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Database+Concurrency.swift"
+  : [1651165065, 654004573]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/EnumBuilder+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Model+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/ModelResponder+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/OptionalChild+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/OptionalParent+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Parent+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/QueryBuilder+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Relation+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/SchemaBuilder+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Siblings+Concurrency.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Database+Logging.swift"
+  : [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Database.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseID.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseInput.swift": [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput+Cascade.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput+Prefix.swift"
+  : [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Databases.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/DatabaseEnum.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumBuilder.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumMetadata.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumProperty.swift": [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/OptionalEnumProperty.swift"
+  : [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Exports.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/FluentError.swift": [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Middleware/ModelMiddleware.swift"
+  : [1651165065, 658004760]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Middleware/ModelResponder.swift"
+  : [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migration.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/MigrationLog.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migrations.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migrator.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/AnyModel.swift": [1651165065, 658004760]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/EagerLoad.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Fields+Codable.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Fields.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/MirrorBypass.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Model+CRUD.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Model.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/ModelAlias.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Schema.swift": [1651165065, 662004947]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/FieldOperators.swift"
+  : [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/Operators.swift": [1651165065, 662004947]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators+Array.swift"
+  : [1651165065, 662004947]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators+String.swift"
+  : [1651165065, 662004947]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators.swift"
+  : [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Children.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Field.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/FieldKey.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Group.swift": [1651165065, 662004947]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/ID.swift": [1651165065, 662004947]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalChild.swift"
+  : [1651165065, 662004947]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalField.swift"
+  : [1651165065, 662004947]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalParent.swift"
+  : [1651165065, 666005134]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Parent.swift": [1651165065, 666005134]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Property.swift": [1651165065, 666005134]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Relation.swift": [1651165065, 666005134]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Siblings.swift": [1651165065, 666005134]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Timestamp.swift": [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/TimestampFormat.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Aggregate.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+EagerLoad.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Filter.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Group.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Join.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Paginate.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Range.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Set.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Sort.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Action.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Aggregate.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Field.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Filter.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Join.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Range.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Sort.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Value.swift"
+  : [1651165065, 666005134]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery.swift"
+  : [1651165065, 666005134]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Query/QueryHistory.swift": [1651165065, 666005134]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Schema/DatabaseSchema.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Schema/SchemaBuilder.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Utilities/OptionalType.swift": [1651165065, 670005083]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentKit/Utilities/RandomGeneratable.swift"
+  : [1651165065, 670005083]

@@ -1,0 +1,6 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1651165284, 711994171]
+build_end_time: [1651165286, 125699996]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1651165064, 141978025]

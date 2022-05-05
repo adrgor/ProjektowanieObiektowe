@@ -1,0 +1,19 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "d464a1faa3da7d1477159eb6eba2e81ced9953ca1d8df0736908ba9c8934f3bd"
+build_start_time: [1651168717, 630560874]
+build_end_time: [1651168719, 796542167]
+inputs:
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/Exports.swift"
+  : [1651165062, 405947208]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/FluentSQLiteConfiguration.swift"
+  : [1651165062, 405947208]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/FluentSQLiteDatabase.swift"
+  : [1651165062, 405947208]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/FluentSQLiteDriver.swift"
+  : [1651165062, 405947208]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/SQLiteConverterDelegate.swift"
+  : [1651165062, 405947208]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/SQLiteError+Database.swift"
+  : [1651165062, 405947208]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/SQLiteRow+Database.swift"
+  : [1651165062, 409947395]

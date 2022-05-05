@@ -1,0 +1,16 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "e88f3280903b294da3f5de9e7ccbf7377b063f87e3e3a639c3d0f071767f57d9"
+build_start_time: [1651777247, 243643999]
+build_end_time: [1651777247, 841200828]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Controllers/CountryController.swift": [1651575479, 572972297]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Controllers/StudentController.swift": [1651575621, 834419250]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Controllers/UniversityController.swift": [1651777244, 546192169]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Migrations/CreateCountry.swift": [1651507545, 407947778]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Migrations/CreateStudent.swift": [1651569521, 825040340]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Migrations/CreateUniversity.swift": [1651177279, 163394212]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Models/Country.swift": [1651507644, 719999313]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Models/Student.swift": [1651570837, 870294570]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/Models/University.swift": [1651575343, 818695306]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/configure.swift": [1651575335, 122513771]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/Sources/App/routes.swift": [1651575313, 466040372]

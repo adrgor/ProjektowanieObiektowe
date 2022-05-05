@@ -1,0 +1,6 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "eb64881f80624ceb2a4800d42a8bf5fe7cce7557fafd65b7bcebc502134f56c1"
+build_start_time: [1651165355, 251534938]
+build_end_time: [1651165356, 616279125]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": [1651165064, 869990825]

@@ -1,0 +1,31 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "d02624e5a3e986f7501dc1329078e3e9ca099564b5db64acd44dd079e8068068"
+build_start_time: [1651168657, 501450061]
+build_end_time: [1651168668, 765264987]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ByteBufferBIO.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/CustomPrivateKey.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/IdentityVerification.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/LinuxCABundle.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLClientHandler.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLHandler.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLServerHandler.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ObjectIdentifier.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/PosixPort.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCallbacks.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificate.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLConnection.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLContext.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLErrors.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLInit.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPKCS12Bundle.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPrivateKey.swift": [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPublicKey.swift": [1651165064, 37976264]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SecurityFrameworkCertificateVerification.swift"
+  : [1651165064, 37976264]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/String+unsafeUninitializedCapacity.swift"
+  : [1651165064, 37976264]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SubjectAlternativeName.swift": [1651165064, 41976213]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/TLSConfiguration.swift": [1651165064, 41976213]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/UniversalBootstrapSupport.swift"
+  : [1651165064, 41976213]

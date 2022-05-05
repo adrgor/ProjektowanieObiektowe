@@ -1,0 +1,4715 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "CountryController",
+      "printedName": "CountryController",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "boot",
+          "printedName": "boot(routes:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "RoutesBuilder",
+              "printedName": "Vapor.RoutesBuilder",
+              "usr": "s:5Vapor13RoutesBuilderP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App17CountryControllerV4boot6routesy5Vapor13RoutesBuilder_p_tKF",
+          "mangledName": "$s3App17CountryControllerV4boot6routesy5Vapor13RoutesBuilder_p_tKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CountryController",
+              "printedName": "App.CountryController",
+              "usr": "s:3App17CountryControllerV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App17CountryControllerVACycfc",
+          "mangledName": "$s3App17CountryControllerVACycfc",
+          "moduleName": "App",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:3App17CountryControllerV",
+      "mangledName": "$s3App17CountryControllerV",
+      "moduleName": "App",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "RouteCollection",
+          "printedName": "RouteCollection",
+          "usr": "s:5Vapor15RouteCollectionP",
+          "mangledName": "$s5Vapor15RouteCollectionP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "StudentController",
+      "printedName": "StudentController",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "boot",
+          "printedName": "boot(routes:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "RoutesBuilder",
+              "printedName": "Vapor.RoutesBuilder",
+              "usr": "s:5Vapor13RoutesBuilderP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App17StudentControllerV4boot6routesy5Vapor13RoutesBuilder_p_tKF",
+          "mangledName": "$s3App17StudentControllerV4boot6routesy5Vapor13RoutesBuilder_p_tKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "StudentController",
+              "printedName": "App.StudentController",
+              "usr": "s:3App17StudentControllerV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App17StudentControllerVACycfc",
+          "mangledName": "$s3App17StudentControllerVACycfc",
+          "moduleName": "App",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:3App17StudentControllerV",
+      "mangledName": "$s3App17StudentControllerV",
+      "moduleName": "App",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "RouteCollection",
+          "printedName": "RouteCollection",
+          "usr": "s:5Vapor15RouteCollectionP",
+          "mangledName": "$s5Vapor15RouteCollectionP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Context",
+      "printedName": "Context",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "student",
+          "printedName": "student",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Student",
+              "printedName": "App.Student",
+              "usr": "s:3App7StudentC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7ContextV7studentAA7StudentCvp",
+          "mangledName": "$s3App7ContextV7studentAA7StudentCvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7ContextV7studentAA7StudentCvg",
+              "mangledName": "$s3App7ContextV7studentAA7StudentCvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7ContextV7studentAA7StudentCvs",
+              "mangledName": "$s3App7ContextV7studentAA7StudentCvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7ContextV7studentAA7StudentCvM",
+              "mangledName": "$s3App7ContextV7studentAA7StudentCvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "unis",
+          "printedName": "unis",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[App.University]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7ContextV4unisSayAA10UniversityCGvp",
+          "mangledName": "$s3App7ContextV4unisSayAA10UniversityCGvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[App.University]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "University",
+                      "printedName": "App.University",
+                      "usr": "s:3App10UniversityC"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7ContextV4unisSayAA10UniversityCGvg",
+              "mangledName": "$s3App7ContextV4unisSayAA10UniversityCGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[App.University]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "University",
+                      "printedName": "App.University",
+                      "usr": "s:3App10UniversityC"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7ContextV4unisSayAA10UniversityCGvs",
+              "mangledName": "$s3App7ContextV4unisSayAA10UniversityCGvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7ContextV4unisSayAA10UniversityCGvM",
+              "mangledName": "$s3App7ContextV4unisSayAA10UniversityCGvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(student:unis:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Context",
+              "printedName": "App.Context",
+              "usr": "s:3App7ContextV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Student",
+              "printedName": "App.Student",
+              "usr": "s:3App7StudentC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[App.University]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App7ContextV7student4unisAcA7StudentC_SayAA10UniversityCGtcfc",
+          "mangledName": "$s3App7ContextV7student4unisAcA7StudentC_SayAA10UniversityCGtcfc",
+          "moduleName": "App",
+          "implicit": true,
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "encode",
+          "printedName": "encode(to:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Encoder",
+              "printedName": "Swift.Encoder",
+              "usr": "s:s7EncoderP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App7ContextV6encode2toys7Encoder_p_tKF",
+          "mangledName": "$s3App7ContextV6encode2toys7Encoder_p_tKF",
+          "moduleName": "App",
+          "implicit": true,
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:3App7ContextV",
+      "mangledName": "$s3App7ContextV",
+      "moduleName": "App",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Encodable",
+          "printedName": "Encodable",
+          "usr": "s:SE",
+          "mangledName": "$sSE"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "UniversityController",
+      "printedName": "UniversityController",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "boot",
+          "printedName": "boot(routes:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "RoutesBuilder",
+              "printedName": "Vapor.RoutesBuilder",
+              "usr": "s:5Vapor13RoutesBuilderP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App20UniversityControllerV4boot6routesy5Vapor13RoutesBuilder_p_tKF",
+          "mangledName": "$s3App20UniversityControllerV4boot6routesy5Vapor13RoutesBuilder_p_tKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UniversityController",
+              "printedName": "App.UniversityController",
+              "usr": "s:3App20UniversityControllerV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App20UniversityControllerVACycfc",
+          "mangledName": "$s3App20UniversityControllerVACycfc",
+          "moduleName": "App",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:3App20UniversityControllerV",
+      "mangledName": "$s3App20UniversityControllerV",
+      "moduleName": "App",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "RouteCollection",
+          "printedName": "RouteCollection",
+          "usr": "s:5Vapor15RouteCollectionP",
+          "mangledName": "$s5Vapor15RouteCollectionP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "CreateCountry",
+      "printedName": "CreateCountry",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "prepare",
+          "printedName": "prepare(on:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Database",
+              "printedName": "FluentKit.Database",
+              "usr": "s:9FluentKit8DatabaseP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App13CreateCountryV7prepare2ony9FluentKit8Database_p_tYaKF",
+          "mangledName": "$s3App13CreateCountryV7prepare2ony9FluentKit8Database_p_tYaKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "revert",
+          "printedName": "revert(on:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Database",
+              "printedName": "FluentKit.Database",
+              "usr": "s:9FluentKit8DatabaseP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App13CreateCountryV6revert2ony9FluentKit8Database_p_tYaKF",
+          "mangledName": "$s3App13CreateCountryV6revert2ony9FluentKit8Database_p_tYaKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CreateCountry",
+              "printedName": "App.CreateCountry",
+              "usr": "s:3App13CreateCountryV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App13CreateCountryVACycfc",
+          "mangledName": "$s3App13CreateCountryVACycfc",
+          "moduleName": "App",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:3App13CreateCountryV",
+      "mangledName": "$s3App13CreateCountryV",
+      "moduleName": "App",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "AsyncMigration",
+          "printedName": "AsyncMigration",
+          "usr": "s:9FluentKit14AsyncMigrationP",
+          "mangledName": "$s9FluentKit14AsyncMigrationP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Migration",
+          "printedName": "Migration",
+          "usr": "s:9FluentKit9MigrationP",
+          "mangledName": "$s9FluentKit9MigrationP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "CreateStudent",
+      "printedName": "CreateStudent",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "prepare",
+          "printedName": "prepare(on:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Database",
+              "printedName": "FluentKit.Database",
+              "usr": "s:9FluentKit8DatabaseP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App13CreateStudentV7prepare2ony9FluentKit8Database_p_tYaKF",
+          "mangledName": "$s3App13CreateStudentV7prepare2ony9FluentKit8Database_p_tYaKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "revert",
+          "printedName": "revert(on:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Database",
+              "printedName": "FluentKit.Database",
+              "usr": "s:9FluentKit8DatabaseP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App13CreateStudentV6revert2ony9FluentKit8Database_p_tYaKF",
+          "mangledName": "$s3App13CreateStudentV6revert2ony9FluentKit8Database_p_tYaKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CreateStudent",
+              "printedName": "App.CreateStudent",
+              "usr": "s:3App13CreateStudentV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App13CreateStudentVACycfc",
+          "mangledName": "$s3App13CreateStudentVACycfc",
+          "moduleName": "App",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:3App13CreateStudentV",
+      "mangledName": "$s3App13CreateStudentV",
+      "moduleName": "App",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "AsyncMigration",
+          "printedName": "AsyncMigration",
+          "usr": "s:9FluentKit14AsyncMigrationP",
+          "mangledName": "$s9FluentKit14AsyncMigrationP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Migration",
+          "printedName": "Migration",
+          "usr": "s:9FluentKit9MigrationP",
+          "mangledName": "$s9FluentKit9MigrationP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "CreateUniversity",
+      "printedName": "CreateUniversity",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "prepare",
+          "printedName": "prepare(on:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Database",
+              "printedName": "FluentKit.Database",
+              "usr": "s:9FluentKit8DatabaseP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App16CreateUniversityV7prepare2ony9FluentKit8Database_p_tYaKF",
+          "mangledName": "$s3App16CreateUniversityV7prepare2ony9FluentKit8Database_p_tYaKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "revert",
+          "printedName": "revert(on:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Database",
+              "printedName": "FluentKit.Database",
+              "usr": "s:9FluentKit8DatabaseP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:3App16CreateUniversityV6revert2ony9FluentKit8Database_p_tYaKF",
+          "mangledName": "$s3App16CreateUniversityV6revert2ony9FluentKit8Database_p_tYaKF",
+          "moduleName": "App",
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CreateUniversity",
+              "printedName": "App.CreateUniversity",
+              "usr": "s:3App16CreateUniversityV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App16CreateUniversityVACycfc",
+          "mangledName": "$s3App16CreateUniversityVACycfc",
+          "moduleName": "App",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:3App16CreateUniversityV",
+      "mangledName": "$s3App16CreateUniversityV",
+      "moduleName": "App",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "AsyncMigration",
+          "printedName": "AsyncMigration",
+          "usr": "s:9FluentKit14AsyncMigrationP",
+          "mangledName": "$s9FluentKit14AsyncMigrationP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Migration",
+          "printedName": "Migration",
+          "usr": "s:9FluentKit9MigrationP",
+          "mangledName": "$s9FluentKit9MigrationP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Country",
+      "printedName": "Country",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "schema",
+          "printedName": "schema",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC6schemaSSvpZ",
+          "mangledName": "$s3App7CountryC6schemaSSvpZ",
+          "moduleName": "App",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC6schemaSSvgZ",
+              "mangledName": "$s3App7CountryC6schemaSSvgZ",
+              "moduleName": "App",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent",
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "id",
+          "printedName": "id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.UUID?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC2id10Foundation4UUIDVSgvp",
+          "mangledName": "$s3App7CountryC2id10Foundation4UUIDVSgvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Foundation.UUID?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC2id10Foundation4UUIDVSgvg",
+              "mangledName": "$s3App7CountryC2id10Foundation4UUIDVSgvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Foundation.UUID?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC2id10Foundation4UUIDVSgvs",
+              "mangledName": "$s3App7CountryC2id10Foundation4UUIDVSgvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC2id10Foundation4UUIDVSgvM",
+              "mangledName": "$s3App7CountryC2id10Foundation4UUIDVSgvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$id",
+          "printedName": "$id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "IDProperty",
+              "printedName": "FluentKit.IDProperty<App.Country, Foundation.UUID>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:9FluentKit10IDPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "mangledName": "$s3App7CountryC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "IDProperty",
+                  "printedName": "FluentKit.IDProperty<App.Country, Foundation.UUID>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Country",
+                      "printedName": "App.Country",
+                      "usr": "s:3App7CountryC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:9FluentKit10IDPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvg",
+              "mangledName": "$s3App7CountryC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_id",
+          "printedName": "_id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "IDProperty",
+              "printedName": "FluentKit.IDProperty<App.Country, Foundation.UUID>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:9FluentKit10IDPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC3_id33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "mangledName": "$s3App7CountryC3_id33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "name",
+          "printedName": "name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC4nameSSvp",
+          "mangledName": "$s3App7CountryC4nameSSvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC4nameSSvg",
+              "mangledName": "$s3App7CountryC4nameSSvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC4nameSSvs",
+              "mangledName": "$s3App7CountryC4nameSSvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC4nameSSvM",
+              "mangledName": "$s3App7CountryC4nameSSvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$name",
+          "printedName": "$name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC5$name9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7CountryC5$name9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.Country, Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Country",
+                      "printedName": "App.Country",
+                      "usr": "s:3App7CountryC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC5$name9FluentKit13FieldPropertyCyACSSGvg",
+              "mangledName": "$s3App7CountryC5$name9FluentKit13FieldPropertyCyACSSGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_name",
+          "printedName": "_name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC5_name33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7CountryC5_name33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "language",
+          "printedName": "language",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC8languageSSvp",
+          "mangledName": "$s3App7CountryC8languageSSvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC8languageSSvg",
+              "mangledName": "$s3App7CountryC8languageSSvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC8languageSSvs",
+              "mangledName": "$s3App7CountryC8languageSSvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC8languageSSvM",
+              "mangledName": "$s3App7CountryC8languageSSvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$language",
+          "printedName": "$language",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC9$language9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7CountryC9$language9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.Country, Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Country",
+                      "printedName": "App.Country",
+                      "usr": "s:3App7CountryC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC9$language9FluentKit13FieldPropertyCyACSSGvg",
+              "mangledName": "$s3App7CountryC9$language9FluentKit13FieldPropertyCyACSSGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_language",
+          "printedName": "_language",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC9_language33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7CountryC9_language33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "gdp",
+          "printedName": "gdp",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC3gdpSivp",
+          "mangledName": "$s3App7CountryC3gdpSivp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC3gdpSivg",
+              "mangledName": "$s3App7CountryC3gdpSivg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC3gdpSivs",
+              "mangledName": "$s3App7CountryC3gdpSivs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC3gdpSivM",
+              "mangledName": "$s3App7CountryC3gdpSivM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$gdp",
+          "printedName": "$gdp",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC4$gdp9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App7CountryC4$gdp9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.Country, Swift.Int>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Country",
+                      "printedName": "App.Country",
+                      "usr": "s:3App7CountryC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC4$gdp9FluentKit13FieldPropertyCyACSiGvg",
+              "mangledName": "$s3App7CountryC4$gdp9FluentKit13FieldPropertyCyACSiGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_gdp",
+          "printedName": "_gdp",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC4_gdp33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App7CountryC4_gdp33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "population",
+          "printedName": "population",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC10populationSivp",
+          "mangledName": "$s3App7CountryC10populationSivp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC10populationSivg",
+              "mangledName": "$s3App7CountryC10populationSivg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC10populationSivs",
+              "mangledName": "$s3App7CountryC10populationSivs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC10populationSivM",
+              "mangledName": "$s3App7CountryC10populationSivM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$population",
+          "printedName": "$population",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC11$population9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App7CountryC11$population9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.Country, Swift.Int>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Country",
+                      "printedName": "App.Country",
+                      "usr": "s:3App7CountryC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7CountryC11$population9FluentKit13FieldPropertyCyACSiGvg",
+              "mangledName": "$s3App7CountryC11$population9FluentKit13FieldPropertyCyACSiGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_population",
+          "printedName": "_population",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Country, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Country",
+                  "printedName": "App.Country",
+                  "usr": "s:3App7CountryC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7CountryC11_population33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App7CountryC11_population33_EBFEEFE9E2CBB618AEA33C806069DF26LL9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "hasStorage": true
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Country",
+              "printedName": "App.Country",
+              "usr": "s:3App7CountryC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App7CountryCACycfc",
+          "mangledName": "$s3App7CountryCACycfc",
+          "moduleName": "App",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(id:name:language:population:gdp:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Country",
+              "printedName": "App.Country",
+              "usr": "s:3App7CountryC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.UUID?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App7CountryC2id4name8language10population3gdpAC10Foundation4UUIDVSg_S2SS2itcfc",
+          "mangledName": "$s3App7CountryC2id4name8language10population3gdpAC10Foundation4UUIDVSg_S2SS2itcfc",
+          "moduleName": "App",
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:3App7CountryC",
+      "mangledName": "$s3App7CountryC",
+      "moduleName": "App",
+      "declAttributes": [
+        "Final"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Model",
+          "printedName": "Model",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "IDValue",
+              "printedName": "IDValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:9FluentKit5ModelP",
+          "mangledName": "$s9FluentKit5ModelP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Content",
+          "printedName": "Content",
+          "usr": "s:5Vapor7ContentP",
+          "mangledName": "$s5Vapor7ContentP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AnyModel",
+          "printedName": "AnyModel",
+          "usr": "s:9FluentKit8AnyModelP",
+          "mangledName": "$s9FluentKit8AnyModelP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Decodable",
+          "printedName": "Decodable",
+          "usr": "s:Se",
+          "mangledName": "$sSe"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Encodable",
+          "printedName": "Encodable",
+          "usr": "s:SE",
+          "mangledName": "$sSE"
+        },
+        {
+          "kind": "Conformance",
+          "name": "RequestDecodable",
+          "printedName": "RequestDecodable",
+          "usr": "s:5Vapor16RequestDecodableP",
+          "mangledName": "$s5Vapor16RequestDecodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ResponseEncodable",
+          "printedName": "ResponseEncodable",
+          "usr": "s:5Vapor17ResponseEncodableP",
+          "mangledName": "$s5Vapor17ResponseEncodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AsyncRequestDecodable",
+          "printedName": "AsyncRequestDecodable",
+          "usr": "s:5Vapor21AsyncRequestDecodableP",
+          "mangledName": "$s5Vapor21AsyncRequestDecodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AsyncResponseEncodable",
+          "printedName": "AsyncResponseEncodable",
+          "usr": "s:5Vapor22AsyncResponseEncodableP",
+          "mangledName": "$s5Vapor22AsyncResponseEncodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Schema",
+          "printedName": "Schema",
+          "usr": "s:9FluentKit6SchemaP",
+          "mangledName": "$s9FluentKit6SchemaP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Fields",
+          "printedName": "Fields",
+          "usr": "s:9FluentKit6FieldsP",
+          "mangledName": "$s9FluentKit6FieldsP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Student",
+      "printedName": "Student",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "schema",
+          "printedName": "schema",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC6schemaSSvpZ",
+          "mangledName": "$s3App7StudentC6schemaSSvpZ",
+          "moduleName": "App",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC6schemaSSvgZ",
+              "mangledName": "$s3App7StudentC6schemaSSvgZ",
+              "moduleName": "App",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent",
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "id",
+          "printedName": "id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.UUID?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC2id10Foundation4UUIDVSgvp",
+          "mangledName": "$s3App7StudentC2id10Foundation4UUIDVSgvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Foundation.UUID?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC2id10Foundation4UUIDVSgvg",
+              "mangledName": "$s3App7StudentC2id10Foundation4UUIDVSgvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Foundation.UUID?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC2id10Foundation4UUIDVSgvs",
+              "mangledName": "$s3App7StudentC2id10Foundation4UUIDVSgvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC2id10Foundation4UUIDVSgvM",
+              "mangledName": "$s3App7StudentC2id10Foundation4UUIDVSgvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$id",
+          "printedName": "$id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "IDProperty",
+              "printedName": "FluentKit.IDProperty<App.Student, Foundation.UUID>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:9FluentKit10IDPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "mangledName": "$s3App7StudentC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "IDProperty",
+                  "printedName": "FluentKit.IDProperty<App.Student, Foundation.UUID>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Student",
+                      "printedName": "App.Student",
+                      "usr": "s:3App7StudentC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:9FluentKit10IDPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvg",
+              "mangledName": "$s3App7StudentC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_id",
+          "printedName": "_id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "IDProperty",
+              "printedName": "FluentKit.IDProperty<App.Student, Foundation.UUID>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:9FluentKit10IDPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC3_id33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "mangledName": "$s3App7StudentC3_id33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "name",
+          "printedName": "name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC4nameSSvp",
+          "mangledName": "$s3App7StudentC4nameSSvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC4nameSSvg",
+              "mangledName": "$s3App7StudentC4nameSSvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC4nameSSvs",
+              "mangledName": "$s3App7StudentC4nameSSvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC4nameSSvM",
+              "mangledName": "$s3App7StudentC4nameSSvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$name",
+          "printedName": "$name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Student, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC5$name9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7StudentC5$name9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.Student, Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Student",
+                      "printedName": "App.Student",
+                      "usr": "s:3App7StudentC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC5$name9FluentKit13FieldPropertyCyACSSGvg",
+              "mangledName": "$s3App7StudentC5$name9FluentKit13FieldPropertyCyACSSGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_name",
+          "printedName": "_name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Student, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC5_name33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7StudentC5_name33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "surname",
+          "printedName": "surname",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC7surnameSSvp",
+          "mangledName": "$s3App7StudentC7surnameSSvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC7surnameSSvg",
+              "mangledName": "$s3App7StudentC7surnameSSvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC7surnameSSvs",
+              "mangledName": "$s3App7StudentC7surnameSSvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC7surnameSSvM",
+              "mangledName": "$s3App7StudentC7surnameSSvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$surname",
+          "printedName": "$surname",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Student, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC8$surname9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7StudentC8$surname9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.Student, Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Student",
+                      "printedName": "App.Student",
+                      "usr": "s:3App7StudentC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC8$surname9FluentKit13FieldPropertyCyACSSGvg",
+              "mangledName": "$s3App7StudentC8$surname9FluentKit13FieldPropertyCyACSSGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_surname",
+          "printedName": "_surname",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Student, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC8_surname33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App7StudentC8_surname33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "age",
+          "printedName": "age",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC3ageSivp",
+          "mangledName": "$s3App7StudentC3ageSivp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC3ageSivg",
+              "mangledName": "$s3App7StudentC3ageSivg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC3ageSivs",
+              "mangledName": "$s3App7StudentC3ageSivs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC3ageSivM",
+              "mangledName": "$s3App7StudentC3ageSivM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$age",
+          "printedName": "$age",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Student, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC4$age9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App7StudentC4$age9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.Student, Swift.Int>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Student",
+                      "printedName": "App.Student",
+                      "usr": "s:3App7StudentC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC4$age9FluentKit13FieldPropertyCyACSiGvg",
+              "mangledName": "$s3App7StudentC4$age9FluentKit13FieldPropertyCyACSiGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_age",
+          "printedName": "_age",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.Student, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC4_age33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App7StudentC4_age33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "universityId",
+          "printedName": "universityId",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "University",
+              "printedName": "App.University",
+              "usr": "s:3App10UniversityC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC12universityIdAA10UniversityCvp",
+          "mangledName": "$s3App7StudentC12universityIdAA10UniversityCvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC12universityIdAA10UniversityCvg",
+              "mangledName": "$s3App7StudentC12universityIdAA10UniversityCvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC12universityIdAA10UniversityCvs",
+              "mangledName": "$s3App7StudentC12universityIdAA10UniversityCvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC12universityIdAA10UniversityCvM",
+              "mangledName": "$s3App7StudentC12universityIdAA10UniversityCvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$universityId",
+          "printedName": "$universityId",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ParentProperty",
+              "printedName": "FluentKit.ParentProperty<App.Student, App.University>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                }
+              ],
+              "usr": "s:9FluentKit14ParentPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC13$universityId9FluentKit14ParentPropertyCyAcA10UniversityCGvp",
+          "mangledName": "$s3App7StudentC13$universityId9FluentKit14ParentPropertyCyAcA10UniversityCGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ParentProperty",
+                  "printedName": "FluentKit.ParentProperty<App.Student, App.University>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Student",
+                      "printedName": "App.Student",
+                      "usr": "s:3App7StudentC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "University",
+                      "printedName": "App.University",
+                      "usr": "s:3App10UniversityC"
+                    }
+                  ],
+                  "usr": "s:9FluentKit14ParentPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App7StudentC13$universityId9FluentKit14ParentPropertyCyAcA10UniversityCGvg",
+              "mangledName": "$s3App7StudentC13$universityId9FluentKit14ParentPropertyCyAcA10UniversityCGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_universityId",
+          "printedName": "_universityId",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ParentProperty",
+              "printedName": "FluentKit.ParentProperty<App.Student, App.University>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Student",
+                  "printedName": "App.Student",
+                  "usr": "s:3App7StudentC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                }
+              ],
+              "usr": "s:9FluentKit14ParentPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App7StudentC13_universityId33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit14ParentPropertyCyAcA10UniversityCGvp",
+          "mangledName": "$s3App7StudentC13_universityId33_4B1BCF06561346F8E83DBA4A300C74CALL9FluentKit14ParentPropertyCyAcA10UniversityCGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "hasStorage": true
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Student",
+              "printedName": "App.Student",
+              "usr": "s:3App7StudentC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App7StudentCACycfc",
+          "mangledName": "$s3App7StudentCACycfc",
+          "moduleName": "App",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(id:name:surname:age:universityId:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Student",
+              "printedName": "App.Student",
+              "usr": "s:3App7StudentC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.UUID?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UUID",
+              "printedName": "Foundation.UUID",
+              "usr": "s:10Foundation4UUIDV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App7StudentC2id4name7surname3age12universityIdAC10Foundation4UUIDVSg_S2SSiAKtcfc",
+          "mangledName": "$s3App7StudentC2id4name7surname3age12universityIdAC10Foundation4UUIDVSg_S2SSiAKtcfc",
+          "moduleName": "App",
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:3App7StudentC",
+      "mangledName": "$s3App7StudentC",
+      "moduleName": "App",
+      "declAttributes": [
+        "Final"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Model",
+          "printedName": "Model",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "IDValue",
+              "printedName": "IDValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:9FluentKit5ModelP",
+          "mangledName": "$s9FluentKit5ModelP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Content",
+          "printedName": "Content",
+          "usr": "s:5Vapor7ContentP",
+          "mangledName": "$s5Vapor7ContentP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AnyModel",
+          "printedName": "AnyModel",
+          "usr": "s:9FluentKit8AnyModelP",
+          "mangledName": "$s9FluentKit8AnyModelP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Decodable",
+          "printedName": "Decodable",
+          "usr": "s:Se",
+          "mangledName": "$sSe"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Encodable",
+          "printedName": "Encodable",
+          "usr": "s:SE",
+          "mangledName": "$sSE"
+        },
+        {
+          "kind": "Conformance",
+          "name": "RequestDecodable",
+          "printedName": "RequestDecodable",
+          "usr": "s:5Vapor16RequestDecodableP",
+          "mangledName": "$s5Vapor16RequestDecodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ResponseEncodable",
+          "printedName": "ResponseEncodable",
+          "usr": "s:5Vapor17ResponseEncodableP",
+          "mangledName": "$s5Vapor17ResponseEncodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AsyncRequestDecodable",
+          "printedName": "AsyncRequestDecodable",
+          "usr": "s:5Vapor21AsyncRequestDecodableP",
+          "mangledName": "$s5Vapor21AsyncRequestDecodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AsyncResponseEncodable",
+          "printedName": "AsyncResponseEncodable",
+          "usr": "s:5Vapor22AsyncResponseEncodableP",
+          "mangledName": "$s5Vapor22AsyncResponseEncodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Schema",
+          "printedName": "Schema",
+          "usr": "s:9FluentKit6SchemaP",
+          "mangledName": "$s9FluentKit6SchemaP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Fields",
+          "printedName": "Fields",
+          "usr": "s:9FluentKit6FieldsP",
+          "mangledName": "$s9FluentKit6FieldsP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "University",
+      "printedName": "University",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "schema",
+          "printedName": "schema",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC6schemaSSvpZ",
+          "mangledName": "$s3App10UniversityC6schemaSSvpZ",
+          "moduleName": "App",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC6schemaSSvgZ",
+              "mangledName": "$s3App10UniversityC6schemaSSvgZ",
+              "moduleName": "App",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent",
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "id",
+          "printedName": "id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.UUID?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC2id10Foundation4UUIDVSgvp",
+          "mangledName": "$s3App10UniversityC2id10Foundation4UUIDVSgvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Foundation.UUID?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC2id10Foundation4UUIDVSgvg",
+              "mangledName": "$s3App10UniversityC2id10Foundation4UUIDVSgvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Foundation.UUID?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC2id10Foundation4UUIDVSgvs",
+              "mangledName": "$s3App10UniversityC2id10Foundation4UUIDVSgvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC2id10Foundation4UUIDVSgvM",
+              "mangledName": "$s3App10UniversityC2id10Foundation4UUIDVSgvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$id",
+          "printedName": "$id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "IDProperty",
+              "printedName": "FluentKit.IDProperty<App.University, Foundation.UUID>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:9FluentKit10IDPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "mangledName": "$s3App10UniversityC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "IDProperty",
+                  "printedName": "FluentKit.IDProperty<App.University, Foundation.UUID>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "University",
+                      "printedName": "App.University",
+                      "usr": "s:3App10UniversityC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UUID",
+                      "printedName": "Foundation.UUID",
+                      "usr": "s:10Foundation4UUIDV"
+                    }
+                  ],
+                  "usr": "s:9FluentKit10IDPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvg",
+              "mangledName": "$s3App10UniversityC3$id9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_id",
+          "printedName": "_id",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "IDProperty",
+              "printedName": "FluentKit.IDProperty<App.University, Foundation.UUID>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "usr": "s:9FluentKit10IDPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC3_id33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "mangledName": "$s3App10UniversityC3_id33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit10IDPropertyCyAC10Foundation4UUIDVGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "name",
+          "printedName": "name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC4nameSSvp",
+          "mangledName": "$s3App10UniversityC4nameSSvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC4nameSSvg",
+              "mangledName": "$s3App10UniversityC4nameSSvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC4nameSSvs",
+              "mangledName": "$s3App10UniversityC4nameSSvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC4nameSSvM",
+              "mangledName": "$s3App10UniversityC4nameSSvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$name",
+          "printedName": "$name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.University, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC5$name9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App10UniversityC5$name9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.University, Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "University",
+                      "printedName": "App.University",
+                      "usr": "s:3App10UniversityC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC5$name9FluentKit13FieldPropertyCyACSSGvg",
+              "mangledName": "$s3App10UniversityC5$name9FluentKit13FieldPropertyCyACSSGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_name",
+          "printedName": "_name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.University, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC5_name33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App10UniversityC5_name33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "country",
+          "printedName": "country",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC7countrySSvp",
+          "mangledName": "$s3App10UniversityC7countrySSvp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC7countrySSvg",
+              "mangledName": "$s3App10UniversityC7countrySSvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC7countrySSvs",
+              "mangledName": "$s3App10UniversityC7countrySSvs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC7countrySSvM",
+              "mangledName": "$s3App10UniversityC7countrySSvM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$country",
+          "printedName": "$country",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.University, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC8$country9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App10UniversityC8$country9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.University, Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "University",
+                      "printedName": "App.University",
+                      "usr": "s:3App10UniversityC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC8$country9FluentKit13FieldPropertyCyACSSGvg",
+              "mangledName": "$s3App10UniversityC8$country9FluentKit13FieldPropertyCyACSSGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_country",
+          "printedName": "_country",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.University, Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC8_country33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit13FieldPropertyCyACSSGvp",
+          "mangledName": "$s3App10UniversityC8_country33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit13FieldPropertyCyACSSGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "founding_year",
+          "printedName": "founding_year",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC13founding_yearSivp",
+          "mangledName": "$s3App10UniversityC13founding_yearSivp",
+          "moduleName": "App",
+          "declAttributes": [
+            "Final",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC13founding_yearSivg",
+              "mangledName": "$s3App10UniversityC13founding_yearSivg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC13founding_yearSivs",
+              "mangledName": "$s3App10UniversityC13founding_yearSivs",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC13founding_yearSivM",
+              "mangledName": "$s3App10UniversityC13founding_yearSivM",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$founding_year",
+          "printedName": "$founding_year",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.University, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC14$founding_year9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App10UniversityC14$founding_year9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FieldProperty",
+                  "printedName": "FluentKit.FieldProperty<App.University, Swift.Int>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "University",
+                      "printedName": "App.University",
+                      "usr": "s:3App10UniversityC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:9FluentKit13FieldPropertyC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:3App10UniversityC14$founding_year9FluentKit13FieldPropertyCyACSiGvg",
+              "mangledName": "$s3App10UniversityC14$founding_year9FluentKit13FieldPropertyCyACSiGvg",
+              "moduleName": "App",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_founding_year",
+          "printedName": "_founding_year",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FieldProperty",
+              "printedName": "FluentKit.FieldProperty<App.University, Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "University",
+                  "printedName": "App.University",
+                  "usr": "s:3App10UniversityC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:9FluentKit13FieldPropertyC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:3App10UniversityC14_founding_year33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit13FieldPropertyCyACSiGvp",
+          "mangledName": "$s3App10UniversityC14_founding_year33_812F4E67C74BC5051876C067D3105E3DLL9FluentKit13FieldPropertyCyACSiGvp",
+          "moduleName": "App",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "University",
+              "printedName": "App.University",
+              "usr": "s:3App10UniversityC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App10UniversityCACycfc",
+          "mangledName": "$s3App10UniversityCACycfc",
+          "moduleName": "App",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(id:title:country:founding_year:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "University",
+              "printedName": "App.University",
+              "usr": "s:3App10UniversityC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.UUID?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:3App10UniversityC2id5title7country13founding_yearAC10Foundation4UUIDVSg_S2SSitcfc",
+          "mangledName": "$s3App10UniversityC2id5title7country13founding_yearAC10Foundation4UUIDVSg_S2SSitcfc",
+          "moduleName": "App",
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:3App10UniversityC",
+      "mangledName": "$s3App10UniversityC",
+      "moduleName": "App",
+      "declAttributes": [
+        "Final"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Model",
+          "printedName": "Model",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "IDValue",
+              "printedName": "IDValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UUID",
+                  "printedName": "Foundation.UUID",
+                  "usr": "s:10Foundation4UUIDV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:9FluentKit5ModelP",
+          "mangledName": "$s9FluentKit5ModelP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Content",
+          "printedName": "Content",
+          "usr": "s:5Vapor7ContentP",
+          "mangledName": "$s5Vapor7ContentP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AnyModel",
+          "printedName": "AnyModel",
+          "usr": "s:9FluentKit8AnyModelP",
+          "mangledName": "$s9FluentKit8AnyModelP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Decodable",
+          "printedName": "Decodable",
+          "usr": "s:Se",
+          "mangledName": "$sSe"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Encodable",
+          "printedName": "Encodable",
+          "usr": "s:SE",
+          "mangledName": "$sSE"
+        },
+        {
+          "kind": "Conformance",
+          "name": "RequestDecodable",
+          "printedName": "RequestDecodable",
+          "usr": "s:5Vapor16RequestDecodableP",
+          "mangledName": "$s5Vapor16RequestDecodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ResponseEncodable",
+          "printedName": "ResponseEncodable",
+          "usr": "s:5Vapor17ResponseEncodableP",
+          "mangledName": "$s5Vapor17ResponseEncodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AsyncRequestDecodable",
+          "printedName": "AsyncRequestDecodable",
+          "usr": "s:5Vapor21AsyncRequestDecodableP",
+          "mangledName": "$s5Vapor21AsyncRequestDecodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "AsyncResponseEncodable",
+          "printedName": "AsyncResponseEncodable",
+          "usr": "s:5Vapor22AsyncResponseEncodableP",
+          "mangledName": "$s5Vapor22AsyncResponseEncodableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Schema",
+          "printedName": "Schema",
+          "usr": "s:9FluentKit6SchemaP",
+          "mangledName": "$s9FluentKit6SchemaP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Fields",
+          "printedName": "Fields",
+          "usr": "s:9FluentKit6FieldsP",
+          "mangledName": "$s9FluentKit6FieldsP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "FluentSQLiteDriver",
+      "printedName": "FluentSQLiteDriver",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Leaf",
+      "printedName": "Leaf",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Function",
+      "name": "configure",
+      "printedName": "configure(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Application",
+          "printedName": "Vapor.Application",
+          "usr": "s:5Vapor11ApplicationC"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:3App9configureyy5Vapor11ApplicationCKF",
+      "mangledName": "$s3App9configureyy5Vapor11ApplicationCKF",
+      "moduleName": "App",
+      "declAttributes": [
+        "AccessControl",
+        "RawDocComment"
+      ],
+      "throwing": true,
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "Fluent",
+      "printedName": "Fluent",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Import",
+      "name": "Vapor",
+      "printedName": "Vapor",
+      "declKind": "Import",
+      "moduleName": "App"
+    },
+    {
+      "kind": "Function",
+      "name": "routes",
+      "printedName": "routes(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Application",
+          "printedName": "Vapor.Application",
+          "usr": "s:5Vapor11ApplicationC"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:3App6routesyy5Vapor11ApplicationCKF",
+      "mangledName": "$s3App6routesyy5Vapor11ApplicationCKF",
+      "moduleName": "App",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "throwing": true,
+      "funcSelfKind": "NonMutating"
+    }
+  ],
+  "json_format_version": 6
+}

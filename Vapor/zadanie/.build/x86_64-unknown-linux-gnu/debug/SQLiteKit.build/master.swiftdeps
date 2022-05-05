@@ -1,0 +1,13 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "d464a1faa3da7d1477159eb6eba2e81ced9953ca1d8df0736908ba9c8934f3bd"
+build_start_time: [1651168699, 341866016]
+build_end_time: [1651168701, 963485956]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/Exports.swift": [1651165062, 685952186]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConfiguration.swift": [1651165062, 685952186]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConnection+SQLKit.swift": [1651165062, 685952186]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConnectionSource.swift": [1651165062, 689952373]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDataDecoder.swift": [1651165062, 693952560]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDataEncoder.swift": [1651165062, 693952560]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDialect.swift": [1651165062, 693952560]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteRow+SQLRow.swift": [1651165062, 693952560]

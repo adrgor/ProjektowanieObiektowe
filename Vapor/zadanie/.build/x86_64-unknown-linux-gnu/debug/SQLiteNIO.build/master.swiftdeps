@@ -1,0 +1,13 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "d464a1faa3da7d1477159eb6eba2e81ced9953ca1d8df0736908ba9c8934f3bd"
+build_start_time: [1651168648, 514765977]
+build_end_time: [1651168655, 114475965]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/Exports.swift": [1651165063, 697970151]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteConnection.swift": [1651165063, 697970151]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteData.swift": [1651165063, 697970151]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteDataConvertible.swift": [1651165063, 697970151]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteDataType.swift": [1651165063, 697970151]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteError.swift": [1651165063, 697970151]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteRow.swift": [1651165063, 697970151]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteStatement.swift": [1651165063, 697970151]

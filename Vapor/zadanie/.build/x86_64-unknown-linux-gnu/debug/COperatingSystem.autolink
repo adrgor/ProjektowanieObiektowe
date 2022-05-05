@@ -1,0 +1,8 @@
+-lswiftGlibc
+-lswiftCore
+-lm
+-lpthread
+-lutil
+-ldl
+-lswiftSwiftOnoneSupport
+-lswift_Concurrency

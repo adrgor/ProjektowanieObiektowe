@@ -1,0 +1,8 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "0dfbf25a43396c9d2f5b24ea49704900189b7e68eba6393fa909cbb9c1c61cc9"
+build_start_time: [1651165332, 818540096]
+build_end_time: [1651165334, 280524015]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1651165064, 861990690]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1651165064, 861990690]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1651165064, 861990690]

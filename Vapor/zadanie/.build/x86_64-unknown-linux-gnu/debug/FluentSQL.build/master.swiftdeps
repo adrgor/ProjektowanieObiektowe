@@ -1,0 +1,15 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "60f10d212b4e112457ee9765c0ff986cd628c6320f4079841b3172be7f56115c"
+build_start_time: [1651168713, 765438079]
+build_end_time: [1651168717, 570081949]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1651165065, 670005083]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model+Concurrency.swift"
+  : [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift": [1651165065, 670005083]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/fluent-kit/Sources/FluentSQL/Utilities.swift": [1651165065, 670005083]

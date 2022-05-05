@@ -1,0 +1,4 @@
+module CURLParser {
+    umbrella "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/vapor/Sources/CURLParser/include"
+    export *
+}

@@ -1,0 +1,7 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "0dfbf25a43396c9d2f5b24ea49704900189b7e68eba6393fa909cbb9c1c61cc9"
+build_start_time: [1651168680, 753270149]
+build_end_time: [1651168682, 882246971]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift": [1651165063, 605968475]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift": [1651165063, 605968475]

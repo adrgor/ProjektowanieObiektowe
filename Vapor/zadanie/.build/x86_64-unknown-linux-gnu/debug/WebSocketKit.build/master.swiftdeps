@@ -1,0 +1,14 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "b8b14bdbd79a760553c83c6ba57e97ab0025b1c3d663b29dd749e7aabaceb6a0"
+build_start_time: [1651168669, 102346897]
+build_end_time: [1651168672, 959777832]
+inputs:
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift"
+  : [1651165064, 261980056]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1651165064, 261980056]
+  ? "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift"
+  : [1651165064, 261980056]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": [1651165064, 261980056]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1651165064, 261980056]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": [1651165064, 261980056]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": [1651165064, 261980056]

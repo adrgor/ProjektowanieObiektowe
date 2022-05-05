@@ -1,0 +1,268 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "CBacktrace",
+      "printedName": "CBacktrace",
+      "declKind": "Import",
+      "moduleName": "Backtrace"
+    },
+    {
+      "kind": "Import",
+      "name": "Glibc",
+      "printedName": "Glibc",
+      "declKind": "Import",
+      "moduleName": "Backtrace"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Backtrace",
+      "printedName": "Backtrace",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "install",
+          "printedName": "install()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9BacktraceAAO7installyyFZ",
+          "mangledName": "$s9BacktraceAAO7installyyFZ",
+          "moduleName": "Backtrace",
+          "static": true,
+          "declAttributes": [
+            "AccessControl",
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "install",
+          "printedName": "install(signals:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.Int32]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int32",
+                  "printedName": "Swift.Int32",
+                  "usr": "s:s5Int32V"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9BacktraceAAO7install7signalsySays5Int32VG_tFZ",
+          "mangledName": "$s9BacktraceAAO7install7signalsySays5Int32VG_tFZ",
+          "moduleName": "Backtrace",
+          "static": true,
+          "declAttributes": [
+            "AccessControl",
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "print",
+          "printedName": "print()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9BacktraceAAO5printyyFZ",
+          "mangledName": "$s9BacktraceAAO5printyyFZ",
+          "moduleName": "Backtrace",
+          "static": true,
+          "deprecated": true,
+          "declAttributes": [
+            "AccessControl",
+            "Available"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:9BacktraceAAO",
+      "mangledName": "$s9BacktraceAAO",
+      "moduleName": "Backtrace",
+      "declAttributes": [
+        "AccessControl"
+      ],
+      "isEnumExhaustive": true
+    },
+    {
+      "kind": "Import",
+      "name": "Glibc",
+      "printedName": "Glibc",
+      "declKind": "Import",
+      "moduleName": "Backtrace"
+    },
+    {
+      "kind": "Function",
+      "name": "_stdlib_demangleImpl",
+      "printedName": "_stdlib_demangleImpl(mangledName:mangledNameLength:outputBuffer:outputBufferSize:flags:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.UnsafeMutablePointer<Swift.Int8>?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UnsafeMutablePointer",
+              "printedName": "Swift.UnsafeMutablePointer<Swift.Int8>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int8",
+                  "printedName": "Swift.Int8",
+                  "usr": "s:s4Int8V"
+                }
+              ],
+              "usr": "s:Sp"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.UnsafePointer<Swift.Int8>?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UnsafePointer",
+              "printedName": "Swift.UnsafePointer<Swift.Int8>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int8",
+                  "printedName": "Swift.Int8",
+                  "usr": "s:s4Int8V"
+                }
+              ],
+              "usr": "s:SP"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "UInt",
+          "printedName": "Swift.UInt",
+          "usr": "s:Su"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.UnsafeMutablePointer<Swift.Int8>?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UnsafeMutablePointer",
+              "printedName": "Swift.UnsafeMutablePointer<Swift.Int8>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int8",
+                  "printedName": "Swift.Int8",
+                  "usr": "s:s4Int8V"
+                }
+              ],
+              "usr": "s:Sp"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.UnsafeMutablePointer<Swift.UInt>?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UnsafeMutablePointer",
+              "printedName": "Swift.UnsafeMutablePointer<Swift.UInt>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UInt",
+                  "printedName": "Swift.UInt",
+                  "usr": "s:Su"
+                }
+              ],
+              "usr": "s:Sp"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "UInt32",
+          "printedName": "Swift.UInt32",
+          "usr": "s:s6UInt32V"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:9Backtrace20_stdlib_demangleImpl11mangledName0eF6Length12outputBuffer0hI4Size5flagsSpys4Int8VGSgSPyAIGSg_SuAKSpySuGSgs6UInt32VtF",
+      "mangledName": "swift_demangle",
+      "moduleName": "Backtrace",
+      "declAttributes": [
+        "AccessControl",
+        "SILGenName"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "_stdlib_demangleName",
+      "printedName": "_stdlib_demangleName(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:9Backtrace20_stdlib_demangleNameyS2SF",
+      "mangledName": "$s9Backtrace20_stdlib_demangleNameyS2SF",
+      "moduleName": "Backtrace",
+      "declAttributes": [
+        "AccessControl"
+      ],
+      "funcSelfKind": "NonMutating"
+    }
+  ],
+  "json_format_version": 6
+}

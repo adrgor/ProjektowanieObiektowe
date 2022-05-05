@@ -1,0 +1,4 @@
+module CBacktrace {
+    umbrella "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/swift-backtrace/Sources/CBacktrace/include"
+    export *
+}

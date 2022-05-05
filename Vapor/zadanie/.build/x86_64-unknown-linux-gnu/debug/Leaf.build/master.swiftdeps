@@ -1,0 +1,10 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "66c4d5c6bb9d72920408b522334fba5af05af2da7267286cf11e62568fca9c34"
+build_start_time: [1651168719, 786924839]
+build_end_time: [1651168721, 966521024]
+inputs:
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/Application+Leaf.swift": [1651165064, 681987524]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/Exports.swift": [1651165064, 681987524]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/LeafEncoder.swift": [1651165064, 681987524]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/LeafRenderer+ViewRenderer.swift": [1651165064, 681987524]
+  "/home/adrian/UJ/ProjektowanieObiektowe/Vapor/zadanie/.build/checkouts/leaf/Sources/Leaf/Request+Leaf.swift": [1651165064, 681987524]
