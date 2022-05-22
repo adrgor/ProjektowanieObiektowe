@@ -48,7 +48,7 @@ const CheckoutSummary = (props) => {
             nameOnCard: props.nameOnCard,
             cvv: props.cvv
         })
-        const res = fetch('http://localhost:3002/checkout', {
+        fetch('http://localhost:3002/checkout', {
             mode: 'cors',
             method: "POST",
             headers: {

@@ -1,17 +1,16 @@
-import {React, useState, useContext} from 'react'
+import {React, useContext} from 'react'
 import OrderItem from './OrderItem'
 import { Link } from 'react-router-dom';
-import { OrdersContext, SetOrdersContext } from '../App';
+import { OrdersContext } from '../App';
 
 const Orders = ( ) => {
 
     const orders = useContext(OrdersContext)
-    const setOrders = useContext(SetOrdersContext)
 
     function sendOrdersToBackend() {
         const body = JSON.stringify([...orders])
 
-        const res = fetch('http://localhost:3002/orders', {
+        fetch('http://localhost:3002/orders', {
             mode: 'cors',
             method: "POST",
             headers: {

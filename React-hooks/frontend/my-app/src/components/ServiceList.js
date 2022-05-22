@@ -1,6 +1,6 @@
 import React, { useContext, useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import { OrdersContext, SetOrdersContext } from '../App'
+import { OrdersContext } from '../App'
 import Service from './Service'
 
 const ServiceList = () => {
@@ -17,7 +17,6 @@ const ServiceList = () => {
       }, [])
 
     const orders = useContext(OrdersContext)
-    const setOrders = useContext(SetOrdersContext)
 
     const buttonStyle = {
         width: "fit-content",

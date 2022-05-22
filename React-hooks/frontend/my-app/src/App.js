@@ -1,4 +1,4 @@
-import { createContext, useEffect, useState } from 'react'
+import { createContext, useState } from 'react'
 import { BrowserRouter, Route, Routes, Link } from 'react-router-dom'
 import ServiceList from './components/ServiceList'
 import Orders from './components/Orders'

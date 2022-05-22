@@ -1,9 +1,12 @@
 const express = require('express')
 const cors = require('cors')
 const app = express()
+app.disable("x-powered-by");
 const port = 3002
 
-app.use(cors())
+app.use(cors({
+    origin: "http://localhost:3000"
+}))
 app.use(express.json());
 
 const services = [
@@ -33,7 +36,7 @@ const services = [
     }
 ]
 
-app.get('/', (req, res) => {
+app.get('/', (_req, res) => {
   res.send(JSON.stringify(services))
 })
 

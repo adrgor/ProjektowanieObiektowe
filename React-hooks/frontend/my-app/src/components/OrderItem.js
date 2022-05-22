@@ -7,8 +7,6 @@ const OrderItem = (props) => {
     const orders = useContext(OrdersContext)
     const setOrders = useContext(SetOrdersContext)
 
-    let display = {}
-
     function removeOrder(id) {
         console.log('chcę usunąć order o id ', id)
         let newOrders = [...orders]
