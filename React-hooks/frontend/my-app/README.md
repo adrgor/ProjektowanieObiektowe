@@ -1,3 +1,6 @@
+# Sonar analysis
+https://sonarcloud.io/summary/overall?id=adrgor_ProjektowanieObiektowe
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
